@@ -1,9 +1,19 @@
 import pandas as pd
+from pathlib import Path
 
 
-class Dumping:
+class Base:
+    def __init__(self):
+        self.out_path = Path("out")
+        self.df = pd.DataFrame(columns=self.COLUMNS).astype(self.DTYPES)
+
     def dump(self, name):
-        self.df.to_csv(name, index=False)
+        path = self.out_path / name
+        self.df.to_csv(path, index=False)
+
+    def load(self, name):
+        path = self.out_path / name
+        self.df = pd.read_csv(path).astype(self.DTYPES)
 
 
 class Election:
@@ -28,7 +38,17 @@ class Election:
     }
 
 
-class National(Election, Dumping):
-    def __init__(self):
-        self.df = pd.DataFrame(columns=self.COLUMNS).astype(self.DTYPES)
+class DemoMeta:
+    pass
 
+
+class National(Base, Election):
+    pass
+
+
+class Euro(Base, Election):
+    pass
+
+
+class Demography(Base, DemoMeta):
+    pass
