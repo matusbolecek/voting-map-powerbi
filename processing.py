@@ -66,11 +66,15 @@ class Election:
         melted_df["election_year"] = election_year
         melted_df["election_type"] = election_type
         melted_df["district_name"] = melted_df["Okres"].str.strip()
-        
-        # This changed later - renaming just for consistency
-        melted_df["district_name"] = melted_df["district_name"].replace("Zahraničie", "Cudzina") 
 
-        melted_df["votes"] = pd.to_numeric(melted_df["votes"], errors="coerce").fillna(0)
+        # This changed later - renaming just for consistency
+        melted_df["district_name"] = melted_df["district_name"].replace(
+            "Zahraničie", "Cudzina"
+        )
+
+        melted_df["votes"] = pd.to_numeric(melted_df["votes"], errors="coerce").fillna(
+            0
+        )
         melted_df["district_id"] = (
             melted_df["Kód Okresu"] if "Kód Okresu" in df.columns else pd.NA
         )
@@ -102,7 +106,9 @@ class Election:
         melted_df["election_year"] = year
         melted_df["election_type"] = self.type
         melted_df["district_id"] = df["Kód Okresu"].astype(str)
-        melted_df["district_name"] = df["Okres"].str.strip().replace("Zahraničie", "Cudzina")
+        melted_df["district_name"] = (
+            df["Okres"].str.strip().replace("Zahraničie", "Cudzina")
+        )
         melted_df["original_party_name"] = df["party_name"]
         melted_df["party_name"] = df["party_name"]
         melted_df["votes"] = pd.to_numeric(df["votes"], errors="coerce").fillna(0)
@@ -178,7 +184,7 @@ class National(Base, Election):
         df = df.rename(columns={df.columns[0]: "Kód Okresu", df.columns[1]: "Okres"})
 
         return df
-    
+
     @staticmethod
     def preprocess_2016(df):
         df = df.iloc[1:]
@@ -197,28 +203,32 @@ class National(Base, Election):
         df = df.rename(columns={df.columns[0]: "Kód Okresu"})
 
         return df
-    
+
     @staticmethod
     def preprocess_2020(df):
         df = df.iloc[1:]
         df = National.set_header(df)
         df = National.clean(df)
         df = df.dropna(subset=["Názov okresu"])
-        
-        df = df[[
-            "Kód okresu",
-            "Názov okresu",
-            "Názov politického subjektu",
-            "Počet platných hlasov",
-        ]]
-        
-        df = df.rename(columns={
-            "Kód okresu": "Kód Okresu",
-            "Názov okresu": "Okres",
-            "Názov politického subjektu": "party_name",
-            "Počet platných hlasov": "votes",
-        })
-        
+
+        df = df[
+            [
+                "Kód okresu",
+                "Názov okresu",
+                "Názov politického subjektu",
+                "Počet platných hlasov",
+            ]
+        ]
+
+        df = df.rename(
+            columns={
+                "Kód okresu": "Kód Okresu",
+                "Názov okresu": "Okres",
+                "Názov politického subjektu": "party_name",
+                "Počet platných hlasov": "votes",
+            }
+        )
+
         return df
 
 
