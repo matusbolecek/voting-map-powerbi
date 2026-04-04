@@ -1,6 +1,8 @@
 import pandas as pd
 from pathlib import Path
 
+from mappings import DISTRICT_TO_LAU1
+
 
 class Base:
     def __init__(self):
@@ -16,11 +18,19 @@ class Base:
         self.df = pd.read_csv(path).astype(self.DTYPES)
 
     @staticmethod
-    def set_header_and_clean(df):
+    def set_header(df):
         df.columns = df.iloc[0]
         df = df.iloc[1:].copy()
-        df.columns = df.columns.str.replace(r"\s+", " ", regex=True).str.strip()
+        return df
 
+    @staticmethod
+    def clean(df):
+        df.columns = df.columns.str.replace(r"\s+", " ", regex=True).str.strip()
+        return df
+
+    @staticmethod
+    def fill_disctrict_codes(df):
+        df["Kód Okresu"] = df["Okres"].map(DISTRICT_TO_LAU1)
         return df
 
 
@@ -30,7 +40,6 @@ class Election:
         "election_type",
         "district_id",
         "district_name",
-        "total_district_votes",
         "original_party_name",
         "party_name",
         "votes",
@@ -41,7 +50,6 @@ class Election:
         "election_type": "string",
         "district_id": "string",
         "district_name": "string",
-        "total_district_votes": "Int64",
         "party_name": "string",
         "votes": "Int64",
     }
@@ -58,32 +66,48 @@ class Election:
         melted_df["election_year"] = election_year
         melted_df["election_type"] = election_type
         melted_df["district_name"] = melted_df["Okres"].str.strip()
+        
+        # This changed later - renaming just for consistency
+        melted_df["district_name"] = melted_df["district_name"].replace("Zahraničie", "Cudzina") 
 
-        melted_df["total_district_votes"] = pd.to_numeric(
-            melted_df["platných hlasov spolu"], errors="coerce"
+        melted_df["votes"] = pd.to_numeric(melted_df["votes"], errors="coerce").fillna(0)
+        melted_df["district_id"] = (
+            melted_df["Kód Okresu"] if "Kód Okresu" in df.columns else pd.NA
         )
-        melted_df["votes"] = pd.to_numeric(melted_df["votes"], errors="coerce")
-
-        melted_df["district_id"] = pd.NA
-
-        # the party_name will be changed with a method later
         melted_df["party_name"] = melted_df["original_party_name"]
 
         return melted_df
-    
+
+    def _append(self, new_df):
+        self.df = pd.concat(
+            [self.df, new_df[self.COLUMNS].astype(self.DTYPES)], ignore_index=True
+        )
+
     def process_a(self, df, year):
-        id_vars = ["Okres", "platných hlasov spolu"]
+        id_vars = ["Okres", "Kód Okresu"]
         party_cols = [col for col in df.columns if col not in id_vars and pd.notna(col)]
 
         melted_df = self._melt(
-            df, 
+            df,
             id_vars=id_vars,
             party_cols=party_cols,
             election_year=year,
-            election_type=self.type
+            election_type=self.type,
         )
 
-        self.df = melted_df[self.COLUMNS].astype(self.DTYPES)    
+        self._append(melted_df)
+
+    def process_b(self, df, year):
+        melted_df = pd.DataFrame()
+        melted_df["election_year"] = year
+        melted_df["election_type"] = self.type
+        melted_df["district_id"] = df["Kód Okresu"].astype(str)
+        melted_df["district_name"] = df["Okres"].str.strip().replace("Zahraničie", "Cudzina")
+        melted_df["original_party_name"] = df["party_name"]
+        melted_df["party_name"] = df["party_name"]
+        melted_df["votes"] = pd.to_numeric(df["votes"], errors="coerce").fillna(0)
+
+        self._append(melted_df)
 
 
 class DemoMeta:
@@ -92,42 +116,109 @@ class DemoMeta:
 
 class National(Base, Election):
     def __init__(self):
+        super().__init__()
         self.type = "NR SR"
-
-    @staticmethod
-    def preprocess_2002(df):
-        df = df.dropna(subset=["Unnamed: 0"])
-        df = df.drop(index=2)
-
-        return df
 
     @staticmethod
     def add_foreign(df):
         new_row = {col: 0 for col in df.columns}
         new_row["Okres"] = "Cudzina"
-        new_row["platných hlasov spolu"] = 0
 
         df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
 
         return df
 
     @staticmethod
+    def preprocess_2002(df):
+        df = df.dropna(subset=["Unnamed: 0"])
+        df = df.drop(index=2)
+        df = df[~df["Unnamed: 0"].astype(str).str.contains("Spolu za SR")]
+
+        df = Base.set_header(df)
+        df = Base.clean(df)
+
+        df = National.add_foreign(df)
+        df = Base.fill_disctrict_codes(df)
+
+        df = df.drop(columns=["platných hlasov spolu"])
+
+        return df
+
+    @staticmethod
     def preprocess_2006(df):
         df = df.drop(index=0)
-        df = National.set_header_and_clean(df)
-        
-        df = df.rename(columns={
-            df.columns[0]: "Okres",
-            df.columns[1]: "platných hlasov spolu"
-        })
+        df = National.set_header(df)
+        df = National.clean(df)
+
+        # 'platnych hlasov spolu - total'
+        df = df.drop(columns=[df.columns[1]])
+
+        df = df.rename(columns={df.columns[0]: "Okres"})
 
         df = df.dropna(subset=["Okres"])
-
         df = df[~df["Okres"].str.contains("kraj", na=False)]
 
         # obce...
         df = df.drop(index=[195, 196, 198])
 
+        # spolu
+        df = df[~df["Okres"].astype(str).str.contains("Spolu za SR")]
+
+        df = National.add_foreign(df)
+        df = Base.fill_disctrict_codes(df)
+
+        return df
+
+    # This one also works for 2012
+    @staticmethod
+    def preprocess_2010(df):
+        df = Base.clean(df)
+        df = df.loc[:, ~df.columns.str.contains("Počet")]
+
+        df = df.rename(columns={df.columns[0]: "Kód Okresu", df.columns[1]: "Okres"})
+
+        return df
+    
+    @staticmethod
+    def preprocess_2016(df):
+        df = df.iloc[1:]
+
+        df = National.set_header(df)
+        df = National.clean(df)
+
+        # This just keeps total vote counts for party-district
+        df = df.loc[:, df.columns.notna()]
+
+        # Some empty lines (index=2,3)
+        df = df.dropna(subset=["Okres"])
+
+        df = df.loc[:, ~df.columns.str.contains("Počet")]
+
+        df = df.rename(columns={df.columns[0]: "Kód Okresu"})
+
+        return df
+    
+    @staticmethod
+    def preprocess_2020(df):
+        df = df.iloc[1:]
+        df = National.set_header(df)
+        df = National.clean(df)
+        df = df.dropna(subset=["Názov okresu"])
+        
+        df = df[[
+            "Kód okresu",
+            "Názov okresu",
+            "Názov politického subjektu",
+            "Počet platných hlasov",
+        ]]
+        
+        df = df.rename(columns={
+            "Kód okresu": "Kód Okresu",
+            "Názov okresu": "Okres",
+            "Názov politického subjektu": "party_name",
+            "Počet platných hlasov": "votes",
+        })
+        
         return df
 
 
