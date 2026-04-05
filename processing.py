@@ -72,12 +72,15 @@ class Election:
             "Zahraničie", "Cudzina"
         )
 
-        melted_df["votes"] = pd.to_numeric(melted_df["votes"], errors="coerce").fillna(
-            0
-        )
+        melted_df["votes"] = pd.to_numeric(
+            melted_df["votes"].astype(str).str.replace(" ", "", regex=False),
+            errors="coerce",
+        ).fillna(0)
+
         melted_df["district_id"] = (
-            melted_df["Kód Okresu"] if "Kód Okresu" in df.columns else pd.NA
+            melted_df["Kód Okresu"].astype(str).str.replace(r"\.0$", "", regex=True)
         )
+
         melted_df["party_name"] = melted_df["original_party_name"]
 
         return melted_df
@@ -87,7 +90,7 @@ class Election:
             [self.df, new_df[self.COLUMNS].astype(self.DTYPES)], ignore_index=True
         )
 
-    def process_a(self, df, year):
+    def process_wide(self, df, year):
         id_vars = ["Okres", "Kód Okresu"]
         party_cols = [col for col in df.columns if col not in id_vars and pd.notna(col)]
 
@@ -101,7 +104,7 @@ class Election:
 
         self._append(melted_df)
 
-    def process_b(self, df, year):
+    def process_long(self, df, year):
         melted_df = pd.DataFrame()
         melted_df["election_year"] = year
         melted_df["election_type"] = self.type
@@ -114,6 +117,37 @@ class Election:
         melted_df["votes"] = pd.to_numeric(df["votes"], errors="coerce").fillna(0)
 
         self._append(melted_df)
+
+    @staticmethod
+    def preprocess_2020(df):
+        """Standard preprocessing for new format:
+        Works for national and euro elections - the new long format
+        Since 2019 in euro, and 2020 in national.
+        """
+        df = df.iloc[1:]
+        df = National.set_header(df)
+        df = National.clean(df)
+        df = df.dropna(subset=["Názov okresu"])
+
+        df = df[
+            [
+                "Kód okresu",
+                "Názov okresu",
+                "Názov politického subjektu",
+                "Počet platných hlasov",
+            ]
+        ]
+
+        df = df.rename(
+            columns={
+                "Kód okresu": "Kód Okresu",
+                "Názov okresu": "Okres",
+                "Názov politického subjektu": "party_name",
+                "Počet platných hlasov": "votes",
+            }
+        )
+
+        return df
 
 
 class DemoMeta:
@@ -204,36 +238,57 @@ class National(Base, Election):
 
         return df
 
+
+class Euro(Base, Election):
+    def __init__(self):
+        super().__init__()
+        self.type = "EP"
+
     @staticmethod
-    def preprocess_2020(df):
+    def preprocess_2004(df):
         df = df.iloc[1:]
-        df = National.set_header(df)
-        df = National.clean(df)
-        df = df.dropna(subset=["Názov okresu"])
+        df = Base.set_header(df)
+        df = Base.clean(df)
 
-        df = df[
-            [
-                "Kód okresu",
-                "Názov okresu",
-                "Názov politického subjektu",
-                "Počet platných hlasov",
-            ]
-        ]
+        cols = list(df.columns)
+        cols[0] = "Okres"
+        cols[1] = "Total"
+        df.columns = cols
 
-        df = df.rename(
-            columns={
-                "Kód okresu": "Kód Okresu",
-                "Názov okresu": "Okres",
-                "Názov politického subjektu": "party_name",
-                "Počet platných hlasov": "votes",
-            }
-        )
+        df = df.dropna(subset=["Okres"])
+        df = df.drop(df.columns[1], axis=1)
+
+        df = Base.fill_disctrict_codes(df)
 
         return df
 
+    @staticmethod
+    def preprocess_2009(df):
+        df = df.iloc[1:]
+        df = Base.set_header(df)
+        df = Base.clean(df)
 
-class Euro(Base, Election):
-    pass
+        cols = list(df.columns)
+        cols[0] = "Okres"
+        cols[1] = "Total"
+        df.columns = cols
+
+        df = df.dropna(subset=["Okres"])
+        df = df.drop(df.columns[1], axis=1)
+
+        df = Base.fill_disctrict_codes(df)
+
+        df = df.loc[:, df.columns.notna()]
+
+        return df
+
+    @staticmethod
+    def preprocess_2014(df):
+        df = Euro.preprocess_2009(df)
+
+        df = df.drop(index=2)
+
+        return df
 
 
 class Demography(Base, DemoMeta):
