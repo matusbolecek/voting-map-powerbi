@@ -81,3 +81,108 @@ DISTRICT_TO_LAU1 = {
     "Cudzina": 900,
 }
 
+UNIVERSAL_PARTY_NAMES = {
+    # SMER - sociálna demokracia
+    "SMER": "SMER-SD",
+    "SMER (tretia cesta)": "SMER-SD",
+    "SMER - SD": "SMER-SD",
+    "SMER-SD": "SMER-SD",
+    "SMER - sociálna demokracia": "SMER-SD",
+    # SDKÚ-DS
+    "SDKÚ": "SDKÚ-DS",
+    "SDKÚ - DS": "SDKÚ-DS",
+    "SDKÚ- DS": "SDKÚ-DS",
+    "SDKÚ-DS": "SDKÚ-DS",
+    "Slovenská demokratická a kresťanská únia - Demokratická strana": "SDKÚ-DS",
+    "SDKÚ - DS - Slovenská demokratická a kresťanská únia - Demokratická strana": "SDKÚ-DS",
+    # OĽaNO / Slovensko
+    "OĽaNO": "OĽaNO / SLOVENSKO",
+    "Obyčajní ľudia": "OĽaNO / SLOVENSKO",
+    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti": "OĽaNO / SLOVENSKO",
+    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO - NOVA)": "OĽaNO / SLOVENSKO",
+    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO)": "OĽaNO / SLOVENSKO",
+    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA": "OĽaNO / SLOVENSKO",
+    "OĽANO A PRIATELIA: OBYČAJNÍ ĽUDIA (OĽANO), NEZÁVISLÍ KANDIDÁTI (NEKA), NOVA, SLOBODNÍ A ZODPOVEDNÍ, PAČIVALE ROMA, MAGYAR SZÍVEK a Kresťanská únia a ZA ĽUDÍ": "OĽaNO / SLOVENSKO",
+    "SLOVENSKO, ZA ĽUDÍ": "OĽaNO / SLOVENSKO",
+    # Sloboda a Solidarita (SaS)
+    "SaS": "SaS",
+    "Sloboda a Solidarita": "SaS",
+    # Hlas - sociálna demokracia
+    "HLAS - sociálna demokracia": "Hlas-SD",
+    # Progresívne Slovensko (PS)
+    "PS": "Progresívne Slovensko",
+    "Koalícia Progresívne Slovensko a SPOLU - občianska demokracia": "Progresívne Slovensko",
+    "Progresívne Slovensko": "Progresívne Slovensko",
+    # Kresťanskodemokratické hnutie (KDH)
+    "KDH": "KDH",
+    "Kresťanskodemokratické hnutie": "KDH",
+    # Slovenská národná strana (SNS)
+    "SNS": "SNS",
+    "SNS, P SNS": "SNS",
+    "Slovenská národná strana": "SNS",
+    # ĽS-HZDS
+    "HZDS": "ĽS-HZDS",
+    "ĽS - HZDS": "ĽS-HZDS",
+    "ĽS-HZDS": "ĽS-HZDS",
+    # SMK / Aliancia (Hungarian minority parties)
+    "SMK-MKP": "SMK / Aliancia",
+    "SMK - MKP": "SMK / Aliancia",
+    "Strana maďarskej komunity - Magyar Közösség Pártja": "SMK / Aliancia",
+    "Magyar Közösségi Összefogás - Maďarská komunitná spolupatričnosť": "SMK / Aliancia",
+    "SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny": "SMK / Aliancia",
+    "Magyar Szövetség - Maďarská aliancia": "SMK / Aliancia",
+    # Most-Híd
+    "MOST - HÍD": "Most-Híd",
+    "Modrí, Most - Híd": "Most-Híd",
+    # Kotleba / ĽSNS
+    "ĽSNS": "ĽSNS - Kotlebovci",
+    "ĽS Naše Slovensko": "ĽSNS - Kotlebovci",
+    "Ľudová strana Naše Slovensko": "ĽSNS - Kotlebovci",
+    "Kotleba - Ľudová strana Naše Slovensko": "ĽSNS - Kotlebovci",
+    "Kotlebovci - Ľudová strana Naše Slovensko": "ĽSNS - Kotlebovci",
+    # Sme Rodina
+    "SME RODINA - Boris Kollár": "Sme Rodina",
+    "SME RODINA": "Sme Rodina",
+    # Republika
+    "REPUBLIKA": "Republika",
+    # Komunistická strana Slovenska (KSS)
+    "KSS": "KSS",
+    "Komunistická strana Slovenska": "KSS",
+    "Koalícia Komunistická strana Slovenska, VZDOR - strana práce": "KSS",
+    # Strana zelených (SZ / SZS)
+    "SZ": "Strana zelených",
+    "SZS": "Strana zelených",
+    "Zelení": "Strana zelených",
+    "Strana zelených": "Strana zelených",
+    "Strana zelených Slovenska": "Strana zelených",
+    # Slovenská ľudová strana (SĽS)
+    "SĽS": "SĽS - Andreja Hlinku",
+    "Slovenská ľudová strana": "SĽS - Andreja Hlinku",
+    "Slovenská ľudová strana Andreja Hlinku": "SĽS - Andreja Hlinku",
+    # Demokratická strana (DS)
+    "DS": "Demokratická strana",
+    "DS - Ľudo Kaník": "Demokratická strana",
+    "Demokratická strana": "Demokratická strana",
+    # Občianska konzervatívna strana (OKS)
+    "OKS": "OKS",
+    "Občianska konzervatívna strana": "OKS",
+    # Vlasť / Vlastenecký blok
+    "VLASŤ": "Vlasť",
+    "Vlastenecký blok": "Vlastenecký blok",
+    # HZD
+    "HZD": "HZD",
+    "HZD, ĽÚ": "HZD",
+    # VZDOR
+    "VZDOR": "VZDOR",
+    "VZDOR - strana práce": "VZDOR",
+    # TIP
+    "TIP": "Strana TIP",
+    "Strana TIP": "Strana TIP",
+    # 99%
+    "99%": "99 % - občiansky hlas",
+    "99 % - občiansky hlas": "99 % - občiansky hlas",
+    # Priama Demokracia
+    "PD": "PRIAMA DEMOKRACIA",
+    "PRIAMA DEMOKRACIA": "PRIAMA DEMOKRACIA",
+    "PRIAMA DEMOKRACIA, Kresťanská ľudová strana": "PRIAMA DEMOKRACIA",
+}

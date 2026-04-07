@@ -4,6 +4,7 @@ import pandas as pd
 import json
 
 from processing import National, Euro
+from mappings import UNIVERSAL_PARTY_NAMES
 
 
 class Builder:
@@ -99,10 +100,16 @@ class Builder:
 
         self.ep_df = ep.df
 
-    def _merge(self):
+    def _merge_and_map(self):
         assert self.nr_df is not None and self.ep_df is not None
 
         self.election_df = pd.concat([self.nr_df, self.ep_df], ignore_index=True)
+
+        self.election_df["party_name"] = (
+            self.election_df["original_party_name"]
+            .map(UNIVERSAL_PARTY_NAMES)
+            .fillna(self.election_df["original_party_name"])
+        )
 
     def dump(self, type: Literal["election", "demography"]):
         export_path = self.out_path / f"{type}.csv"
@@ -118,7 +125,7 @@ class Builder:
     def build_election(self):
         self._build_ep()
         self._build_nr()
-        self._merge()
+        self._merge_and_map()
 
     def _build_demo(self):
         pass

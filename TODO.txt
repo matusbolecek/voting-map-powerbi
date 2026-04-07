@@ -1,5 +1,2 @@
 main:
 - demo handling logic
-
-other:
-- party common name dict
