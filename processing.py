@@ -105,7 +105,7 @@ class Election:
         self._append(melted_df)
 
     def process_long(self, df, year):
-        melted_df = pd.DataFrame()
+        melted_df = df[["Kód Okresu", "Okres"]].copy()
         melted_df["election_year"] = year
         melted_df["election_type"] = self.type
         melted_df["district_id"] = df["Kód Okresu"].astype(str)

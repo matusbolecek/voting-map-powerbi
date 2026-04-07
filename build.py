@@ -1,9 +1,47 @@
+from pathlib import Path
+from typing import Literal
 import pandas as pd
-from processing import National, Base, Euro
+import json
+
+from processing import National, Euro
 
 
 class Builder:
-    def build_nr(self):
+    def __init__(self):
+        self.nr_df = None
+        self.ep_df = None
+        self.demo_df = None
+
+        self.out_path = Path("out")
+        self.out_path.mkdir(parents=True, exist_ok=True)
+
+        self.election_df = None
+
+    def partyname_helper(self):
+        """Returns all party names in all elections.
+        Since parties changed their names, we want to utilize a LLM
+        to group the same party together. This helper just returns a dict with
+        all the names.
+        """
+        assert self.election_df is not None
+        election_parties = (
+            self.election_df.groupby(["election_year", "election_type"])[
+                "original_party_name"
+            ]
+            .unique()
+            .reset_index()
+        )
+
+        parties_dict_str = {
+            f"{row['election_year']} - {row['election_type']}": row[
+                "original_party_name"
+            ].tolist()
+            for _, row in election_parties.iterrows()
+        }
+
+        print(json.dumps(parties_dict_str, ensure_ascii=False, indent=2))
+
+    def _build_nr(self):
         nr = National()
 
         df_02 = pd.read_excel("data/nrsr/nrsr2002.xls")
@@ -34,9 +72,9 @@ class Builder:
         df_23 = National.preprocess_2020(df_23)
         nr.process_long(df_23, 2023)
 
-        return nr.df
+        self.nr_df = nr.df
 
-    def build_ep(self):
+    def _build_ep(self):
         ep = Euro()
 
         df_04 = pd.read_excel("data/ep/ep2004.xlsx")
@@ -59,10 +97,35 @@ class Builder:
         df_24 = Euro.preprocess_2020(df_24)
         ep.process_long(df_24, 2024)
 
-        return ep.df
+        self.ep_df = ep.df
 
-    def build_demo(self):
+    def _merge(self):
+        assert self.nr_df is not None and self.ep_df is not None
+
+        self.election_df = pd.concat([self.nr_df, self.ep_df], ignore_index=True)
+
+    def dump(self, type: Literal["election", "demography"]):
+        export_path = self.out_path / f"{type}.csv"
+
+        if type == "election":
+            assert self.election_df is not None
+            self.election_df.to_csv(export_path, index=False)
+
+        elif type == "demography":
+            assert self.demo_df is not None
+            self.demo_df.to_csv(export_path, index=False)
+
+    def build_election(self):
+        self._build_ep()
+        self._build_nr()
+        self._merge()
+
+    def _build_demo(self):
         pass
 
-    def main(self):
-        pass
+
+if __name__ == "__main__":
+    build = Builder()
+
+    build.build_election()
+    build.dump("election")
