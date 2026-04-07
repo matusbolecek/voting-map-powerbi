@@ -111,28 +111,20 @@ class Builder:
             .fillna(self.election_df["original_party_name"])
         )
 
-    def dump(self, type: Literal["election", "demography"]):
-        export_path = self.out_path / f"{type}.csv"
+    def dump(self):
+        export_path = self.out_path / "election.csv"
 
-        if type == "election":
-            assert self.election_df is not None
-            self.election_df.to_csv(export_path, index=False)
-
-        elif type == "demography":
-            assert self.demo_df is not None
-            self.demo_df.to_csv(export_path, index=False)
+        assert self.election_df is not None
+        self.election_df.to_csv(export_path, index=False)
 
     def build_election(self):
         self._build_ep()
         self._build_nr()
         self._merge_and_map()
 
-    def _build_demo(self):
-        pass
-
 
 if __name__ == "__main__":
     build = Builder()
 
     build.build_election()
-    build.dump("election")
+    build.dump()

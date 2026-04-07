@@ -150,10 +150,6 @@ class Election:
         return df
 
 
-class DemoMeta:
-    pass
-
-
 class National(Base, Election):
     def __init__(self):
         super().__init__()
@@ -289,7 +285,3 @@ class Euro(Base, Election):
         df = df.drop(index=2)
 
         return df
-
-
-class Demography(Base, DemoMeta):
-    pass
