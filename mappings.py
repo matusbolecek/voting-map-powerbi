@@ -186,3 +186,38 @@ UNIVERSAL_PARTY_NAMES = {
     "PRIAMA DEMOKRACIA": "PRIAMA DEMOKRACIA",
     "PRIAMA DEMOKRACIA, Kresťanská ľudová strana": "PRIAMA DEMOKRACIA",
 }
+
+PARTY_COLORS = {
+    "SMER-SD": "#CC0000",
+    "SDKÚ-DS": "#003399",
+    "OĽaNO / SLOVENSKO": "#1F9ED6",  
+    "SaS": "#7AC143",  
+    "Hlas-SD": "#E30613",  
+    "Progresívne Slovensko": "#00AEEF",
+    "KDH": "#97F3FF",  
+    "SNS": "#0B4EA2",  
+    "ĽS-HZDS": "#F7941E",
+    "Sme Rodina": "#00A4AC",
+    
+    "SMK / Aliancia": "#00914D",
+    "Most-Híd": "#FF6600",
+    "Most-Híd / Modrí": "#FF6600",
+    
+    "ĽSNS - Kotlebovci": "#00611C",
+    "Republika": "#1D1D1B",
+    "Vlasť": "#ED1C24",
+    "Vlastenecký blok": "#C1272D",
+    "SĽS - Andreja Hlinku": "#8B4513",  # Uncertain
+    
+    "KSS": "#FF0000",
+    "VZDOR": "#990000",
+    
+    "Strana zelených": "#33CC33",
+    
+    "Demokratická strana": "#002366",
+    "OKS": "#800000",
+    "HZD": "#005DA3",  # Uncertain
+    "Strana TIP": "#E6007E",
+    "99 % - občiansky hlas": "#FFD700",
+    "PRIAMA DEMOKRACIA": "#708090",  # Uncertain
+}
