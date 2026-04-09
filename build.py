@@ -4,19 +4,27 @@ import pandas as pd
 import json
 
 from processing import National, Euro
-from mappings import UNIVERSAL_PARTY_NAMES
+from mappings import UNIVERSAL_PARTY_NAMES, PARTY_COLORS
 
-
-class Builder:
+class Dimension:
     def __init__(self):
-        self.nr_df = None
-        self.ep_df = None
-        self.demo_df = None
-
         self.out_path = Path("out")
         self.out_path.mkdir(parents=True, exist_ok=True)
 
-        self.election_df = None
+    def dump(self):
+        export_path = self.out_path / f"{self.name}.csv"
+        
+        assert self.df is not None
+        self.df.to_csv(export_path, index=False)
+
+
+class ElectionBuilder(Dimension):
+    def __init__(self):
+        super().__init__()
+
+        self.nr_df = None
+        self.ep_df = None
+        self.df = None
 
     def partyname_helper(self):
         """Returns all party names in all elections.
@@ -24,9 +32,9 @@ class Builder:
         to group the same party together. This helper just returns a dict with
         all the names.
         """
-        assert self.election_df is not None
+        assert self.df is not None
         election_parties = (
-            self.election_df.groupby(["election_year", "election_type"])[
+            self.df.groupby(["election_year", "election_type"])[
                 "original_party_name"
             ]
             .unique()
@@ -103,36 +111,61 @@ class Builder:
     def _merge_and_map(self):
         assert self.nr_df is not None and self.ep_df is not None
 
-        self.election_df = pd.concat([self.nr_df, self.ep_df], ignore_index=True)
+        self.df = pd.concat([self.nr_df, self.ep_df], ignore_index=True)
 
-        self.election_df["party_name"] = (
-            self.election_df["original_party_name"]
+        self.df["party_name"] = (
+            self.df["original_party_name"]
             .map(UNIVERSAL_PARTY_NAMES)
-            .fillna(self.election_df["original_party_name"])
+            .fillna(self.df["original_party_name"])
         )
-
-    def dump(self, type: Literal["election", "demography"]):
-        export_path = self.out_path / f"{type}.csv"
-
-        if type == "election":
-            assert self.election_df is not None
-            self.election_df.to_csv(export_path, index=False)
-
-        elif type == "demography":
-            assert self.demo_df is not None
-            self.demo_df.to_csv(export_path, index=False)
 
     def build_election(self):
         self._build_ep()
         self._build_nr()
         self._merge_and_map()
 
-    def _build_demo(self):
-        pass
+
+class Coloring(Dimension):
+    def __init__(self, election_df):
+        self.name = 'DimParties'
+        self.election_df = election_df
+        super().__init__()
+
+    def process(self):
+        df = self.election_df[['party_name']].drop_duplicates().reset_index(drop=True)
+        df['color'] = df['party_name'].apply(lambda x: PARTY_COLORS.get(x, "#CCCCCC"))
+
+        self.df = df.copy()
+
+
+class Districts(Dimension):
+    def __init__(self, election_df):
+        self.name = 'DimDistricts'
+        self.election_df = election_df
+        super().__init__()
+
+    def process(self):
+        # Does not matter which one we pick - all data is the same
+        df_old = self.election_df[
+            (self.election_df['election_year'] == 2002) &
+            (self.election_df['election_type'] == 'NR SR')
+            ]
+        
+        df = df_old[['district_id', 'district_name']]
+
+        # Some sheets have this scheme, thus it is also added
+        df['district_name_alt'] = 'Okres ' + df['district_name'].astype(str)
 
 
 if __name__ == "__main__":
-    build = Builder()
+    build_main = ElectionBuilder()
+    build_main.build_election()
+    build_main.dump()
 
-    build.build_election()
-    build.dump("election")
+    color = Coloring(build_main.df)
+    color.process()
+    color.dump()
+
+    district = Districts(build_main.df)
+    district.process()
+    district.dump()
