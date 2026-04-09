@@ -6,6 +6,7 @@ import json
 from processing import National, Euro
 from mappings import UNIVERSAL_PARTY_NAMES, PARTY_COLORS
 
+
 class Dimension:
     def __init__(self):
         self.out_path = Path("out")
@@ -13,13 +14,14 @@ class Dimension:
 
     def dump(self):
         export_path = self.out_path / f"{self.name}.csv"
-        
+
         assert self.df is not None
         self.df.to_csv(export_path, index=False)
 
 
 class ElectionBuilder(Dimension):
     def __init__(self):
+        self.name = "DimResults"
         super().__init__()
 
         self.nr_df = None
@@ -34,9 +36,7 @@ class ElectionBuilder(Dimension):
         """
         assert self.df is not None
         election_parties = (
-            self.df.groupby(["election_year", "election_type"])[
-                "original_party_name"
-            ]
+            self.df.groupby(["election_year", "election_type"])["original_party_name"]
             .unique()
             .reset_index()
         )
@@ -127,34 +127,36 @@ class ElectionBuilder(Dimension):
 
 class Coloring(Dimension):
     def __init__(self, election_df):
-        self.name = 'DimParties'
+        self.name = "DimParties"
         self.election_df = election_df
         super().__init__()
 
     def process(self):
-        df = self.election_df[['party_name']].drop_duplicates().reset_index(drop=True)
-        df['color'] = df['party_name'].apply(lambda x: PARTY_COLORS.get(x, "#CCCCCC"))
+        df = self.election_df[["party_name"]].drop_duplicates().reset_index(drop=True)
+        df["color"] = df["party_name"].apply(lambda x: PARTY_COLORS.get(x, "#CCCCCC"))
 
         self.df = df.copy()
 
 
 class Districts(Dimension):
     def __init__(self, election_df):
-        self.name = 'DimDistricts'
+        self.name = "DimDistricts"
         self.election_df = election_df
         super().__init__()
 
     def process(self):
         # Does not matter which one we pick - all data is the same
         df_old = self.election_df[
-            (self.election_df['election_year'] == 2002) &
-            (self.election_df['election_type'] == 'NR SR')
-            ]
-        
-        df = df_old[['district_id', 'district_name']]
+            (self.election_df["election_year"] == 2002)
+            & (self.election_df["election_type"] == "NR SR")
+        ]
+
+        df = df_old[["district_id", "district_name"]]
 
         # Some sheets have this scheme, thus it is also added
-        df['district_name_alt'] = 'Okres ' + df['district_name'].astype(str)
+        df["district_name_alt"] = "Okres " + df["district_name"].astype(str)
+
+        self.df = df
 
 
 if __name__ == "__main__":
