@@ -3,7 +3,7 @@ from typing import Literal
 import pandas as pd
 import json
 
-from processing import National, Euro
+from processing import National, Euro, Demo
 from mappings import UNIVERSAL_PARTY_NAMES, PARTY_COLORS
 
 
@@ -129,9 +129,45 @@ class DemographyBuilder(Dimension):
     def __init__(self):
         self.name = "DimDemography"
         self.in_path = Path("data") / "demo"
-        self.src_year = None
+        self.year = None
+
+        self.df = None
 
         super().__init__()
+
+    def _get_file_path(self, name, ext):
+        return self.in_path / str(self.year) / f"{self.year}_{name}.{ext}"
+
+    def _get_csv_path(self, name):
+        return self._get_file_path(name, "csv")
+
+    def _build_2021(self):
+        self.year = 2021
+
+        demography = Demo()
+        demography.set_year(self.year)
+
+        to_process = [
+            ("agegroups", "Age Groups"),
+            ("economic", "Economic Activity"),
+            ("education", "Highest Education"),
+            ("ethnicity", "Ethnicity"),
+            ("religion", "Religion"),
+            ("urban", "Urbanization"),
+        ]
+
+        for pair in to_process:
+            df = pd.read_csv(self._get_csv_path(pair[0]))
+            df = Demo.preprocess_2021(df)
+            demography.process(df, pair[1])
+
+        return demography.df
+
+    def build(self):
+        df_2021 = self._build_2021()
+
+        # No merging needed so far
+        self.df = df_2021
 
 
 class Coloring(Dimension):
@@ -185,3 +221,7 @@ if __name__ == "__main__":
     district = Districts(build_main.df)
     district.process()
     district.dump()
+
+    demo = DemographyBuilder()
+    demo.build()
+    demo.dump()

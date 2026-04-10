@@ -194,10 +194,10 @@ class National(Base, Election):
         df = df.dropna(subset=["Okres"])
         df = df[~df["Okres"].str.contains("kraj", na=False)]
 
-        # obce...
+        # obce - towns...
         df = df.drop(index=[195, 196, 198])
 
-        # spolu
+        # spolu - total
         df = df[~df["Okres"].astype(str).str.contains("Spolu za SR")]
 
         df = National.add_foreign(df)
@@ -292,6 +292,7 @@ class Demo(Base):
         "year",
         "district_id",
         "district_name",
+        "category",
         "statistic",
         "percentage",
     ]
@@ -300,6 +301,7 @@ class Demo(Base):
         "year": "Int64",
         "district_id": "string",
         "district_name": "string",
+        "category": "string",
         "statistic": "string",
         "percentage": "Float64",
     }
@@ -326,7 +328,7 @@ class Demo(Base):
             case 2021:
                 self.id_vars = ["Kód", "Territory unit"]
 
-    def _melt(self, df, stat_cols):
+    def _melt(self, df, stat_cols, category):
         melted = df.melt(
             id_vars=self.id_vars,
             value_vars=stat_cols,
@@ -343,16 +345,19 @@ class Demo(Base):
         )
 
         melted["year"] = self.year
+        melted["category"] = category
         melted = melted[self.COLUMNS]
         melted = melted.astype(
             {col: dtype for col, dtype in self.DTYPES.items() if col in melted.columns}
         )
         return melted
 
-    def process(self, df, columns=None):
+    def process(self, df, category, columns=None):
         assert self.year is not None
         assert self.id_vars is not None
 
+        # This logic will most likely not be used, as category and user selection
+        # is generally a better way to do this than manual filtering
         stat_cols = (
             columns
             if columns
@@ -361,5 +366,5 @@ class Demo(Base):
             ]
         )
 
-        melted_df = self._melt(df, stat_cols)
+        melted_df = self._melt(df, stat_cols, category)
         self._append(melted_df)
