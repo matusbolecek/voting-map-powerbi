@@ -33,6 +33,11 @@ class Base:
         df["Kód Okresu"] = df["Okres"].map(DISTRICT_TO_LAU1)
         return df
 
+    def _append(self, new_df):
+        self.df = pd.concat(
+            [self.df, new_df[self.COLUMNS].astype(self.DTYPES)], ignore_index=True
+        )
+
 
 class Election:
     COLUMNS = [
@@ -84,11 +89,6 @@ class Election:
         melted_df["party_name"] = melted_df["original_party_name"]
 
         return melted_df
-
-    def _append(self, new_df):
-        self.df = pd.concat(
-            [self.df, new_df[self.COLUMNS].astype(self.DTYPES)], ignore_index=True
-        )
 
     def process_wide(self, df, year):
         id_vars = ["Okres", "Kód Okresu"]
@@ -285,3 +285,81 @@ class Euro(Base, Election):
         df = df.drop(index=2)
 
         return df
+
+
+class Demo(Base):
+    COLUMNS = [
+        "year",
+        "district_id",
+        "district_name",
+        "statistic",
+        "percentage",
+    ]
+
+    DTYPES = {
+        "year": "Int64",
+        "district_id": "string",
+        "district_name": "string",
+        "statistic": "string",
+        "percentage": "Float64",
+    }
+
+    def __init__(self):
+        self.df = None
+        self.year = None
+        self.id_vars = None
+
+    @staticmethod
+    def preprocess_2021(df):
+        df = df.drop(columns=[col for col in df.columns if "(abs.)" in col])
+        df = df.drop(columns="Total")
+        return df
+
+    def set_year(self, year):
+        """Set year and id + vars
+        This method allows for an external call that changes the year attrribute
+        as well as the corresponding district code + name fields.
+        The code should be the first entry in the id_vars and the name should be the second
+        """
+        self.year = year
+        match year:
+            case 2021:
+                self.id_vars = ["Kód", "Territory unit"]
+
+    def _melt(self, df, stat_cols):
+        melted = df.melt(
+            id_vars=self.id_vars,
+            value_vars=stat_cols,
+            var_name="statistic",
+            value_name="percentage",
+        )
+
+        assert self.id_vars is not None
+        melted = melted.rename(
+            columns={
+                self.id_vars[0]: "district_id",
+                self.id_vars[1]: "district_name",
+            }
+        )
+
+        melted["year"] = self.year
+        melted = melted[self.COLUMNS]
+        melted = melted.astype(
+            {col: dtype for col, dtype in self.DTYPES.items() if col in melted.columns}
+        )
+        return melted
+
+    def process(self, df, columns=None):
+        assert self.year is not None
+        assert self.id_vars is not None
+
+        stat_cols = (
+            columns
+            if columns
+            else [
+                col for col in df.columns if col not in self.id_vars and pd.notna(col)
+            ]
+        )
+
+        melted_df = self._melt(df, stat_cols)
+        self._append(melted_df)

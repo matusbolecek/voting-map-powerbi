@@ -1,2001 +1,2001 @@
-district_id,district_name,district_name_alt
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
-101,Bratislava I,Okres Bratislava I
-102,Bratislava II,Okres Bratislava II
-103,Bratislava III,Okres Bratislava III
-104,Bratislava IV,Okres Bratislava IV
-105,Bratislava V,Okres Bratislava V
-106,Malacky,Okres Malacky
-107,Pezinok,Okres Pezinok
-108,Senec,Okres Senec
-201,Dunajská Streda,Okres Dunajská Streda
-202,Galanta,Okres Galanta
-203,Hlohovec,Okres Hlohovec
-204,Piešťany,Okres Piešťany
-205,Senica,Okres Senica
-206,Skalica,Okres Skalica
-207,Trnava,Okres Trnava
-301,Bánovce nad Bebravou,Okres Bánovce nad Bebravou
-302,Ilava,Okres Ilava
-303,Myjava,Okres Myjava
-304,Nové Mesto nad Váhom,Okres Nové Mesto nad Váhom
-305,Partizánske,Okres Partizánske
-306,Považská Bystrica,Okres Považská Bystrica
-307,Prievidza,Okres Prievidza
-308,Púchov,Okres Púchov
-309,Trenčín,Okres Trenčín
-401,Komárno,Okres Komárno
-402,Levice,Okres Levice
-403,Nitra,Okres Nitra
-404,Nové Zámky,Okres Nové Zámky
-405,Šaľa,Okres Šaľa
-406,Topoľčany,Okres Topoľčany
-407,Zlaté Moravce,Okres Zlaté Moravce
-501,Bytča,Okres Bytča
-502,Čadca,Okres Čadca
-503,Dolný Kubín,Okres Dolný Kubín
-504,Kysucké Nové Mesto,Okres Kysucké Nové Mesto
-505,Liptovský Mikuláš,Okres Liptovský Mikuláš
-506,Martin,Okres Martin
-507,Námestovo,Okres Námestovo
-508,Ružomberok,Okres Ružomberok
-509,Turčianske Teplice,Okres Turčianske Teplice
-510,Tvrdošín,Okres Tvrdošín
-511,Žilina,Okres Žilina
-601,Banská Bystrica,Okres Banská Bystrica
-602,Banská Štiavnica,Okres Banská Štiavnica
-603,Brezno,Okres Brezno
-604,Detva,Okres Detva
-605,Krupina,Okres Krupina
-606,Lučenec,Okres Lučenec
-607,Poltár,Okres Poltár
-608,Revúca,Okres Revúca
-609,Rimavská Sobota,Okres Rimavská Sobota
-610,Veľký Krtíš,Okres Veľký Krtíš
-611,Zvolen,Okres Zvolen
-612,Žarnovica,Okres Žarnovica
-613,Žiar nad Hronom,Okres Žiar nad Hronom
-701,Bardejov,Okres Bardejov
-702,Humenné,Okres Humenné
-703,Kežmarok,Okres Kežmarok
-704,Levoča,Okres Levoča
-705,Medzilaborce,Okres Medzilaborce
-706,Poprad,Okres Poprad
-707,Prešov,Okres Prešov
-708,Sabinov,Okres Sabinov
-709,Snina,Okres Snina
-710,Stará Ľubovňa,Okres Stará Ľubovňa
-711,Stropkov,Okres Stropkov
-712,Svidník,Okres Svidník
-713,Vranov nad Topľou,Okres Vranov nad Topľou
-801,Gelnica,Okres Gelnica
-802,Košice I,Okres Košice I
-803,Košice II,Okres Košice II
-804,Košice III,Okres Košice III
-805,Košice IV,Okres Košice IV
-806,Košice - okolie,Okres Košice - okolie
-807,Michalovce,Okres Michalovce
-808,Rožňava,Okres Rožňava
-809,Sobrance,Okres Sobrance
-810,Spišská Nová Ves,Okres Spišská Nová Ves
-811,Trebišov,Okres Trebišov
-900,Cudzina,Okres Cudzina
+district_id,district_name,district_id_alt,district_name_alt,district_name_en
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina
+101,Bratislava I,SK101,Okres Bratislava I,District of Bratislava I
+102,Bratislava II,SK102,Okres Bratislava II,District of Bratislava II
+103,Bratislava III,SK103,Okres Bratislava III,District of Bratislava III
+104,Bratislava IV,SK104,Okres Bratislava IV,District of Bratislava IV
+105,Bratislava V,SK105,Okres Bratislava V,District of Bratislava V
+106,Malacky,SK106,Okres Malacky,District of Malacky
+107,Pezinok,SK107,Okres Pezinok,District of Pezinok
+108,Senec,SK108,Okres Senec,District of Senec
+201,Dunajská Streda,SK201,Okres Dunajská Streda,District of Dunajská Streda
+202,Galanta,SK202,Okres Galanta,District of Galanta
+203,Hlohovec,SK203,Okres Hlohovec,District of Hlohovec
+204,Piešťany,SK204,Okres Piešťany,District of Piešťany
+205,Senica,SK205,Okres Senica,District of Senica
+206,Skalica,SK206,Okres Skalica,District of Skalica
+207,Trnava,SK207,Okres Trnava,District of Trnava
+301,Bánovce nad Bebravou,SK301,Okres Bánovce nad Bebravou,District of Bánovce nad Bebravou
+302,Ilava,SK302,Okres Ilava,District of Ilava
+303,Myjava,SK303,Okres Myjava,District of Myjava
+304,Nové Mesto nad Váhom,SK304,Okres Nové Mesto nad Váhom,District of Nové Mesto nad Váhom
+305,Partizánske,SK305,Okres Partizánske,District of Partizánske
+306,Považská Bystrica,SK306,Okres Považská Bystrica,District of Považská Bystrica
+307,Prievidza,SK307,Okres Prievidza,District of Prievidza
+308,Púchov,SK308,Okres Púchov,District of Púchov
+309,Trenčín,SK309,Okres Trenčín,District of Trenčín
+401,Komárno,SK401,Okres Komárno,District of Komárno
+402,Levice,SK402,Okres Levice,District of Levice
+403,Nitra,SK403,Okres Nitra,District of Nitra
+404,Nové Zámky,SK404,Okres Nové Zámky,District of Nové Zámky
+405,Šaľa,SK405,Okres Šaľa,District of Šaľa
+406,Topoľčany,SK406,Okres Topoľčany,District of Topoľčany
+407,Zlaté Moravce,SK407,Okres Zlaté Moravce,District of Zlaté Moravce
+501,Bytča,SK501,Okres Bytča,District of Bytča
+502,Čadca,SK502,Okres Čadca,District of Čadca
+503,Dolný Kubín,SK503,Okres Dolný Kubín,District of Dolný Kubín
+504,Kysucké Nové Mesto,SK504,Okres Kysucké Nové Mesto,District of Kysucké Nové Mesto
+505,Liptovský Mikuláš,SK505,Okres Liptovský Mikuláš,District of Liptovský Mikuláš
+506,Martin,SK506,Okres Martin,District of Martin
+507,Námestovo,SK507,Okres Námestovo,District of Námestovo
+508,Ružomberok,SK508,Okres Ružomberok,District of Ružomberok
+509,Turčianske Teplice,SK509,Okres Turčianske Teplice,District of Turčianske Teplice
+510,Tvrdošín,SK510,Okres Tvrdošín,District of Tvrdošín
+511,Žilina,SK511,Okres Žilina,District of Žilina
+601,Banská Bystrica,SK601,Okres Banská Bystrica,District of Banská Bystrica
+602,Banská Štiavnica,SK602,Okres Banská Štiavnica,District of Banská Štiavnica
+603,Brezno,SK603,Okres Brezno,District of Brezno
+604,Detva,SK604,Okres Detva,District of Detva
+605,Krupina,SK605,Okres Krupina,District of Krupina
+606,Lučenec,SK606,Okres Lučenec,District of Lučenec
+607,Poltár,SK607,Okres Poltár,District of Poltár
+608,Revúca,SK608,Okres Revúca,District of Revúca
+609,Rimavská Sobota,SK609,Okres Rimavská Sobota,District of Rimavská Sobota
+610,Veľký Krtíš,SK610,Okres Veľký Krtíš,District of Veľký Krtíš
+611,Zvolen,SK611,Okres Zvolen,District of Zvolen
+612,Žarnovica,SK612,Okres Žarnovica,District of Žarnovica
+613,Žiar nad Hronom,SK613,Okres Žiar nad Hronom,District of Žiar nad Hronom
+701,Bardejov,SK701,Okres Bardejov,District of Bardejov
+702,Humenné,SK702,Okres Humenné,District of Humenné
+703,Kežmarok,SK703,Okres Kežmarok,District of Kežmarok
+704,Levoča,SK704,Okres Levoča,District of Levoča
+705,Medzilaborce,SK705,Okres Medzilaborce,District of Medzilaborce
+706,Poprad,SK706,Okres Poprad,District of Poprad
+707,Prešov,SK707,Okres Prešov,District of Prešov
+708,Sabinov,SK708,Okres Sabinov,District of Sabinov
+709,Snina,SK709,Okres Snina,District of Snina
+710,Stará Ľubovňa,SK710,Okres Stará Ľubovňa,District of Stará Ľubovňa
+711,Stropkov,SK711,Okres Stropkov,District of Stropkov
+712,Svidník,SK712,Okres Svidník,District of Svidník
+713,Vranov nad Topľou,SK713,Okres Vranov nad Topľou,District of Vranov nad Topľou
+801,Gelnica,SK801,Okres Gelnica,District of Gelnica
+802,Košice I,SK802,Okres Košice I,District of Košice I
+803,Košice II,SK803,Okres Košice II,District of Košice II
+804,Košice III,SK804,Okres Košice III,District of Košice III
+805,Košice IV,SK805,Okres Košice IV,District of Košice IV
+806,Košice - okolie,SK806,Okres Košice - okolie,District of Košice - okolie
+807,Michalovce,SK807,Okres Michalovce,District of Michalovce
+808,Rožňava,SK808,Okres Rožňava,District of Rožňava
+809,Sobrance,SK809,Okres Sobrance,District of Sobrance
+810,Spišská Nová Ves,SK810,Okres Spišská Nová Ves,District of Spišská Nová Ves
+811,Trebišov,SK811,Okres Trebišov,District of Trebišov
+900,Cudzina,SK900,Okres Cudzina,District of Cudzina

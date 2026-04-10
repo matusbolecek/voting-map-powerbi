@@ -125,6 +125,15 @@ class ElectionBuilder(Dimension):
         self._merge_and_map()
 
 
+class DemographyBuilder(Dimension):
+    def __init__(self):
+        self.name = "DimDemography"
+        self.in_path = Path("data") / "demo"
+        self.src_year = None
+
+        super().__init__()
+
+
 class Coloring(Dimension):
     def __init__(self, election_df):
         self.name = "DimParties"
@@ -154,7 +163,12 @@ class Districts(Dimension):
         df = df_old[["district_id", "district_name"]]
 
         # Some sheets have this scheme, thus it is also added
+        df["district_id_alt"] = "SK" + df["district_id"].astype(str)
+
         df["district_name_alt"] = "Okres " + df["district_name"].astype(str)
+
+        # English fields
+        df["district_name_en"] = "District of " + df["district_name"].astype(str)
 
         self.df = df
 
