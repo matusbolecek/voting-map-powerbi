@@ -194,7 +194,7 @@ class Districts(Dimension):
         df = df[df["district_id"].notna() & (df["district_id"] != "")]
 
         # Some sheets have this scheme, thus it is also added
-        df["district_id_alt"] = "SK" + df["district_id"].astype(str)
+        df["district_id_alt"] = "SK0" + df["district_id"].astype(str)
 
         df["district_name_alt"] = "Okres " + df["district_name"].astype(str)
 
