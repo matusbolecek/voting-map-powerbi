@@ -12987,7 +12987,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,SMK-MKP,SMK / Aliancia,21
 2004,EP,810,Spišská Nová Ves,SMK-MKP,SMK / Aliancia,123
 2004,EP,811,Trebišov,SMK-MKP,SMK / Aliancia,3580
-2004,EP,,Spolu za SR,SMK-MKP,SMK / Aliancia,92927
 2004,EP,101,Bratislava I,ANO,ANO,586
 2004,EP,102,Bratislava II,ANO,ANO,979
 2004,EP,103,Bratislava III,ANO,ANO,628
@@ -13067,7 +13066,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,ANO,ANO,99
 2004,EP,810,Spišská Nová Ves,ANO,ANO,505
 2004,EP,811,Trebišov,ANO,ANO,509
-2004,EP,,Spolu za SR,ANO,ANO,32653
 2004,EP,101,Bratislava I,SDKÚ,SDKÚ-DS,2949
 2004,EP,102,Bratislava II,SDKÚ,SDKÚ-DS,4751
 2004,EP,103,Bratislava III,SDKÚ,SDKÚ-DS,3095
@@ -13147,7 +13145,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,SDKÚ,SDKÚ-DS,287
 2004,EP,810,Spišská Nová Ves,SDKÚ,SDKÚ-DS,2541
 2004,EP,811,Trebišov,SDKÚ,SDKÚ-DS,1173
-2004,EP,,Spolu za SR,SDKÚ,SDKÚ-DS,119954
 2004,EP,101,Bratislava I,MFS,MFS,20
 2004,EP,102,Bratislava II,MFS,MFS,26
 2004,EP,103,Bratislava III,MFS,MFS,10
@@ -13227,7 +13224,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,MFS,MFS,3
 2004,EP,810,Spišská Nová Ves,MFS,MFS,4
 2004,EP,811,Trebišov,MFS,MFS,78
-2004,EP,,Spolu za SR,MFS,MFS,1598
 2004,EP,101,Bratislava I,ŽS SR,ŽS SR,46
 2004,EP,102,Bratislava II,ŽS SR,ŽS SR,95
 2004,EP,103,Bratislava III,ŽS SR,ŽS SR,41
@@ -13307,7 +13303,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,ŽS SR,ŽS SR,13
 2004,EP,810,Spišská Nová Ves,ŽS SR,ŽS SR,32
 2004,EP,811,Trebišov,ŽS SR,ŽS SR,16
-2004,EP,,Spolu za SR,ŽS SR,ŽS SR,2464
 2004,EP,101,Bratislava I,DÚ,DÚ,91
 2004,EP,102,Bratislava II,DÚ,DÚ,55
 2004,EP,103,Bratislava III,DÚ,DÚ,64
@@ -13387,7 +13382,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,DÚ,DÚ,7
 2004,EP,810,Spišská Nová Ves,DÚ,DÚ,9
 2004,EP,811,Trebišov,DÚ,DÚ,6
-2004,EP,,Spolu za SR,DÚ,DÚ,1354
 2004,EP,101,Bratislava I,KSS,KSS,356
 2004,EP,102,Bratislava II,KSS,KSS,679
 2004,EP,103,Bratislava III,KSS,KSS,513
@@ -13467,7 +13461,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,KSS,KSS,179
 2004,EP,810,Spišská Nová Ves,KSS,KSS,574
 2004,EP,811,Trebišov,KSS,KSS,409
-2004,EP,,Spolu za SR,KSS,KSS,31908
 2004,EP,101,Bratislava I,SF,SF,852
 2004,EP,102,Bratislava II,SF,SF,1152
 2004,EP,103,Bratislava III,SF,SF,788
@@ -13547,7 +13540,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,SF,SF,75
 2004,EP,810,Spišská Nová Ves,SF,SF,283
 2004,EP,811,Trebišov,SF,SF,463
-2004,EP,,Spolu za SR,SF,SF,22804
 2004,EP,101,Bratislava I,"SNS, P SNS",SNS,202
 2004,EP,102,Bratislava II,"SNS, P SNS",SNS,373
 2004,EP,103,Bratislava III,"SNS, P SNS",SNS,218
@@ -13627,7 +13619,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,"SNS, P SNS",SNS,53
 2004,EP,810,Spišská Nová Ves,"SNS, P SNS",SNS,148
 2004,EP,811,Trebišov,"SNS, P SNS",SNS,83
-2004,EP,,Spolu za SR,"SNS, P SNS",SNS,14150
 2004,EP,101,Bratislava I,SĽS,SĽS - Andreja Hlinku,18
 2004,EP,102,Bratislava II,SĽS,SĽS - Andreja Hlinku,13
 2004,EP,103,Bratislava III,SĽS,SĽS - Andreja Hlinku,17
@@ -13707,7 +13698,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,SĽS,SĽS - Andreja Hlinku,1
 2004,EP,810,Spišská Nová Ves,SĽS,SĽS - Andreja Hlinku,23
 2004,EP,811,Trebišov,SĽS,SĽS - Andreja Hlinku,11
-2004,EP,,Spolu za SR,SĽS,SĽS - Andreja Hlinku,1241
 2004,EP,101,Bratislava I,AŽ-OS,AŽ-OS,85
 2004,EP,102,Bratislava II,AŽ-OS,AŽ-OS,149
 2004,EP,103,Bratislava III,AŽ-OS,AŽ-OS,75
@@ -13787,7 +13777,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,AŽ-OS,AŽ-OS,75
 2004,EP,810,Spišská Nová Ves,AŽ-OS,AŽ-OS,58
 2004,EP,811,Trebišov,AŽ-OS,AŽ-OS,193
-2004,EP,,Spolu za SR,AŽ-OS,AŽ-OS,4940
 2004,EP,101,Bratislava I,SMER (tretia cesta),SMER-SD,1359
 2004,EP,102,Bratislava II,SMER (tretia cesta),SMER-SD,3005
 2004,EP,103,Bratislava III,SMER (tretia cesta),SMER-SD,1897
@@ -13867,7 +13856,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,SMER (tretia cesta),SMER-SD,487
 2004,EP,810,Spišská Nová Ves,SMER (tretia cesta),SMER-SD,1722
 2004,EP,811,Trebišov,SMER (tretia cesta),SMER-SD,1454
-2004,EP,,Spolu za SR,SMER (tretia cesta),SMER-SD,118535
 2004,EP,101,Bratislava I,ĽS-HZDS,ĽS-HZDS,1573
 2004,EP,102,Bratislava II,ĽS-HZDS,ĽS-HZDS,3225
 2004,EP,103,Bratislava III,ĽS-HZDS,ĽS-HZDS,2313
@@ -13947,7 +13935,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,ĽS-HZDS,ĽS-HZDS,597
 2004,EP,810,Spišská Nová Ves,ĽS-HZDS,ĽS-HZDS,1322
 2004,EP,811,Trebišov,ĽS-HZDS,ĽS-HZDS,1000
-2004,EP,,Spolu za SR,ĽS-HZDS,ĽS-HZDS,119582
 2004,EP,101,Bratislava I,KDH,KDH,2012
 2004,EP,102,Bratislava II,KDH,KDH,2807
 2004,EP,103,Bratislava III,KDH,KDH,1853
@@ -14027,7 +14014,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,KDH,KDH,438
 2004,EP,810,Spišská Nová Ves,KDH,KDH,2127
 2004,EP,811,Trebišov,KDH,KDH,1198
-2004,EP,,Spolu za SR,KDH,KDH,113655
 2004,EP,101,Bratislava I,"HZD, ĽÚ",HZD,128
 2004,EP,102,Bratislava II,"HZD, ĽÚ",HZD,192
 2004,EP,103,Bratislava III,"HZD, ĽÚ",HZD,131
@@ -14107,7 +14093,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,"HZD, ĽÚ",HZD,81
 2004,EP,810,Spišská Nová Ves,"HZD, ĽÚ",HZD,147
 2004,EP,811,Trebišov,"HZD, ĽÚ",HZD,155
-2004,EP,,Spolu za SR,"HZD, ĽÚ",HZD,11914
 2004,EP,101,Bratislava I,OKS,OKS,466
 2004,EP,102,Bratislava II,OKS,OKS,398
 2004,EP,103,Bratislava III,OKS,OKS,312
@@ -14187,7 +14172,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,OKS,OKS,13
 2004,EP,810,Spišská Nová Ves,OKS,OKS,47
 2004,EP,811,Trebišov,OKS,OKS,24
-2004,EP,,Spolu za SR,OKS,OKS,7060
 2004,EP,101,Bratislava I,RKDH,RKDH,13
 2004,EP,102,Bratislava II,RKDH,RKDH,11
 2004,EP,103,Bratislava III,RKDH,RKDH,12
@@ -14267,7 +14251,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2004,EP,809,Sobrance,RKDH,RKDH,41
 2004,EP,810,Spišská Nová Ves,RKDH,RKDH,643
 2004,EP,811,Trebišov,RKDH,RKDH,638
-2004,EP,,Spolu za SR,RKDH,RKDH,4856
 2009,EP,101,Bratislava I,ĽS-HZDS,ĽS-HZDS,592
 2009,EP,102,Bratislava II,ĽS-HZDS,ĽS-HZDS,1418
 2009,EP,103,Bratislava III,ĽS-HZDS,ĽS-HZDS,976
@@ -14348,13 +14331,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,ĽS-HZDS,ĽS-HZDS,1584
 2009,EP,811,Trebišov,ĽS-HZDS,ĽS-HZDS,1362
 2009,EP,,,ĽS-HZDS,ĽS-HZDS,0
-2009,EP,,Spolu za SR,ĽS-HZDS,ĽS-HZDS,74241
 2009,EP,,,ĽS-HZDS,ĽS-HZDS,0
-2009,EP,,v tom,ĽS-HZDS,ĽS-HZDS,0
 2009,EP,,,ĽS-HZDS,ĽS-HZDS,0
-2009,EP,,mestá a mestské časti,ĽS-HZDS,ĽS-HZDS,33956
 2009,EP,,,ĽS-HZDS,ĽS-HZDS,0
-2009,EP,,obce,ĽS-HZDS,ĽS-HZDS,40285
 2009,EP,101,Bratislava I,SaS,SaS,1388
 2009,EP,102,Bratislava II,SaS,SaS,2252
 2009,EP,103,Bratislava III,SaS,SaS,1521
@@ -14435,13 +14414,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,SaS,SaS,395
 2009,EP,811,Trebišov,SaS,SaS,255
 2009,EP,,,SaS,SaS,0
-2009,EP,,Spolu za SR,SaS,SaS,39016
 2009,EP,,,SaS,SaS,0
-2009,EP,,v tom,SaS,SaS,0
 2009,EP,,,SaS,SaS,0
-2009,EP,,mestá a mestské časti,SaS,SaS,28902
 2009,EP,,,SaS,SaS,0
-2009,EP,,obce,SaS,SaS,10114
 2009,EP,101,Bratislava I,SMER,SMER-SD,2211
 2009,EP,102,Bratislava II,SMER,SMER-SD,6401
 2009,EP,103,Bratislava III,SMER,SMER-SD,3903
@@ -14522,13 +14497,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,SMER,SMER-SD,4081
 2009,EP,811,Trebišov,SMER,SMER-SD,3454
 2009,EP,,,SMER,SMER-SD,0
-2009,EP,,Spolu za SR,SMER,SMER-SD,264722
 2009,EP,,,SMER,SMER-SD,0
-2009,EP,,v tom,SMER,SMER-SD,0
 2009,EP,,,SMER,SMER-SD,0
-2009,EP,,mestá a mestské časti,SMER,SMER-SD,154131
 2009,EP,,,SMER,SMER-SD,0
-2009,EP,,obce,SMER,SMER-SD,110591
 2009,EP,101,Bratislava I,SZ,Strana zelených,527
 2009,EP,102,Bratislava II,SZ,Strana zelených,947
 2009,EP,103,Bratislava III,SZ,Strana zelených,607
@@ -14609,13 +14580,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,SZ,Strana zelených,318
 2009,EP,811,Trebišov,SZ,Strana zelených,125
 2009,EP,,,SZ,Strana zelených,0
-2009,EP,,Spolu za SR,SZ,Strana zelených,17482
 2009,EP,,,SZ,Strana zelených,0
-2009,EP,,v tom,SZ,Strana zelených,0
 2009,EP,,,SZ,Strana zelených,0
-2009,EP,,mestá a mestské časti,SZ,Strana zelených,12510
 2009,EP,,,SZ,Strana zelených,0
-2009,EP,,obce,SZ,Strana zelených,4972
 2009,EP,101,Bratislava I,SDKÚ- DS,SDKÚ-DS,3614
 2009,EP,102,Bratislava II,SDKÚ- DS,SDKÚ-DS,6743
 2009,EP,103,Bratislava III,SDKÚ- DS,SDKÚ-DS,4193
@@ -14696,13 +14663,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,SDKÚ- DS,SDKÚ-DS,2002
 2009,EP,811,Trebišov,SDKÚ- DS,SDKÚ-DS,1289
 2009,EP,,,SDKÚ- DS,SDKÚ-DS,0
-2009,EP,,Spolu za SR,SDKÚ- DS,SDKÚ-DS,140426
 2009,EP,,,SDKÚ- DS,SDKÚ-DS,0
-2009,EP,,v tom,SDKÚ- DS,SDKÚ-DS,0
 2009,EP,,,SDKÚ- DS,SDKÚ-DS,0
-2009,EP,,mestá a mestské časti,SDKÚ- DS,SDKÚ-DS,100612
 2009,EP,,,SDKÚ- DS,SDKÚ-DS,0
-2009,EP,,obce,SDKÚ- DS,SDKÚ-DS,39814
 2009,EP,101,Bratislava I,DS,Demokratická strana,37
 2009,EP,102,Bratislava II,DS,Demokratická strana,71
 2009,EP,103,Bratislava III,DS,Demokratická strana,50
@@ -14783,13 +14746,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,DS,Demokratická strana,47
 2009,EP,811,Trebišov,DS,Demokratická strana,70
 2009,EP,,,DS,Demokratická strana,0
-2009,EP,,Spolu za SR,DS,Demokratická strana,2398
 2009,EP,,,DS,Demokratická strana,0
-2009,EP,,v tom,DS,Demokratická strana,0
 2009,EP,,,DS,Demokratická strana,0
-2009,EP,,mestá a mestské časti,DS,Demokratická strana,1331
 2009,EP,,,DS,Demokratická strana,0
-2009,EP,,obce,DS,Demokratická strana,1067
 2009,EP,101,Bratislava I,Misia 21,Misia 21,12
 2009,EP,102,Bratislava II,Misia 21,Misia 21,18
 2009,EP,103,Bratislava III,Misia 21,Misia 21,15
@@ -14870,13 +14829,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,Misia 21,Misia 21,27
 2009,EP,811,Trebišov,Misia 21,Misia 21,103
 2009,EP,,,Misia 21,Misia 21,0
-2009,EP,,Spolu za SR,Misia 21,Misia 21,3515
 2009,EP,,,Misia 21,Misia 21,0
-2009,EP,,v tom,Misia 21,Misia 21,0
 2009,EP,,,Misia 21,Misia 21,0
-2009,EP,,mestá a mestské časti,Misia 21,Misia 21,1258
 2009,EP,,,Misia 21,Misia 21,0
-2009,EP,,obce,Misia 21,Misia 21,2257
 2009,EP,101,Bratislava I,ASV,ASV,31
 2009,EP,102,Bratislava II,ASV,ASV,59
 2009,EP,103,Bratislava III,ASV,ASV,51
@@ -14957,13 +14912,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,ASV,ASV,16
 2009,EP,811,Trebišov,ASV,ASV,34
 2009,EP,,,ASV,ASV,0
-2009,EP,,Spolu za SR,ASV,ASV,3721
 2009,EP,,,ASV,ASV,0
-2009,EP,,v tom,ASV,ASV,0
 2009,EP,,,ASV,ASV,0
-2009,EP,,mestá a mestské časti,ASV,ASV,1587
 2009,EP,,,ASV,ASV,0
-2009,EP,,obce,ASV,ASV,2134
 2009,EP,101,Bratislava I,"KDS, OKS","KDS, OKS",587
 2009,EP,102,Bratislava II,"KDS, OKS","KDS, OKS",794
 2009,EP,103,Bratislava III,"KDS, OKS","KDS, OKS",492
@@ -15044,13 +14995,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,"KDS, OKS","KDS, OKS",316
 2009,EP,811,Trebišov,"KDS, OKS","KDS, OKS",171
 2009,EP,,,"KDS, OKS","KDS, OKS",0
-2009,EP,,Spolu za SR,"KDS, OKS","KDS, OKS",17409
 2009,EP,,,"KDS, OKS","KDS, OKS",0
-2009,EP,,v tom,"KDS, OKS","KDS, OKS",0
 2009,EP,,,"KDS, OKS","KDS, OKS",0
-2009,EP,,mestá a mestské časti,"KDS, OKS","KDS, OKS",11782
 2009,EP,,,"KDS, OKS","KDS, OKS",0
-2009,EP,,obce,"KDS, OKS","KDS, OKS",5627
 2009,EP,101,Bratislava I,SMK-MKP,SMK / Aliancia,355
 2009,EP,102,Bratislava II,SMK-MKP,SMK / Aliancia,1380
 2009,EP,103,Bratislava III,SMK-MKP,SMK / Aliancia,312
@@ -15131,13 +15078,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,SMK-MKP,SMK / Aliancia,15
 2009,EP,811,Trebišov,SMK-MKP,SMK / Aliancia,3625
 2009,EP,,,SMK-MKP,SMK / Aliancia,0
-2009,EP,,Spolu za SR,SMK-MKP,SMK / Aliancia,93750
 2009,EP,,,SMK-MKP,SMK / Aliancia,0
-2009,EP,,v tom,SMK-MKP,SMK / Aliancia,0
 2009,EP,,,SMK-MKP,SMK / Aliancia,0
-2009,EP,,mestá a mestské časti,SMK-MKP,SMK / Aliancia,31791
 2009,EP,,,SMK-MKP,SMK / Aliancia,0
-2009,EP,,obce,SMK-MKP,SMK / Aliancia,61959
 2009,EP,101,Bratislava I,KSS,KSS,102
 2009,EP,102,Bratislava II,KSS,KSS,192
 2009,EP,103,Bratislava III,KSS,KSS,175
@@ -15218,13 +15161,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,KSS,KSS,310
 2009,EP,811,Trebišov,KSS,KSS,190
 2009,EP,,,KSS,KSS,0
-2009,EP,,Spolu za SR,KSS,KSS,13643
 2009,EP,,,KSS,KSS,0
-2009,EP,,v tom,KSS,KSS,0
 2009,EP,,,KSS,KSS,0
-2009,EP,,mestá a mestské časti,KSS,KSS,7262
 2009,EP,,,KSS,KSS,0
-2009,EP,,obce,KSS,KSS,6381
 2009,EP,101,Bratislava I,SNS,SNS,393
 2009,EP,102,Bratislava II,SNS,SNS,963
 2009,EP,103,Bratislava III,SNS,SNS,667
@@ -15305,13 +15244,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,SNS,SNS,611
 2009,EP,811,Trebišov,SNS,SNS,337
 2009,EP,,,SNS,SNS,0
-2009,EP,,Spolu za SR,SNS,SNS,45960
 2009,EP,,,SNS,SNS,0
-2009,EP,,v tom,SNS,SNS,0
 2009,EP,,,SNS,SNS,0
-2009,EP,,mestá a mestské časti,SNS,SNS,23854
 2009,EP,,,SNS,SNS,0
-2009,EP,,obce,SNS,SNS,22106
 2009,EP,101,Bratislava I,LIGA,LIGA,40
 2009,EP,102,Bratislava II,LIGA,LIGA,64
 2009,EP,103,Bratislava III,LIGA,LIGA,55
@@ -15392,13 +15327,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,LIGA,LIGA,25
 2009,EP,811,Trebišov,LIGA,LIGA,45
 2009,EP,,,LIGA,LIGA,0
-2009,EP,,Spolu za SR,LIGA,LIGA,2373
 2009,EP,,,LIGA,LIGA,0
-2009,EP,,v tom,LIGA,LIGA,0
 2009,EP,,,LIGA,LIGA,0
-2009,EP,,mestá a mestské časti,LIGA,LIGA,1435
 2009,EP,,,LIGA,LIGA,0
-2009,EP,,obce,LIGA,LIGA,938
 2009,EP,101,Bratislava I,SDĽ,SDĽ,48
 2009,EP,102,Bratislava II,SDĽ,SDĽ,115
 2009,EP,103,Bratislava III,SDĽ,SDĽ,54
@@ -15479,13 +15410,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,SDĽ,SDĽ,70
 2009,EP,811,Trebišov,SDĽ,SDĽ,187
 2009,EP,,,SDĽ,SDĽ,0
-2009,EP,,Spolu za SR,SDĽ,SDĽ,5158
 2009,EP,,,SDĽ,SDĽ,0
-2009,EP,,v tom,SDĽ,SDĽ,0
 2009,EP,,,SDĽ,SDĽ,0
-2009,EP,,mestá a mestské časti,SDĽ,SDĽ,2633
 2009,EP,,,SDĽ,SDĽ,0
-2009,EP,,obce,SDĽ,SDĽ,2525
 2009,EP,101,Bratislava I,SF,SF,173
 2009,EP,102,Bratislava II,SF,SF,377
 2009,EP,103,Bratislava III,SF,SF,184
@@ -15566,13 +15493,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,SF,SF,138
 2009,EP,811,Trebišov,SF,SF,279
 2009,EP,,,SF,SF,0
-2009,EP,,Spolu za SR,SF,SF,13063
 2009,EP,,,SF,SF,0
-2009,EP,,v tom,SF,SF,0
 2009,EP,,,SF,SF,0
-2009,EP,,mestá a mestské časti,SF,SF,7811
 2009,EP,,,SF,SF,0
-2009,EP,,obce,SF,SF,5252
 2009,EP,101,Bratislava I,KDH,KDH,1156
 2009,EP,102,Bratislava II,KDH,KDH,1803
 2009,EP,103,Bratislava III,KDH,KDH,1243
@@ -15653,13 +15576,9 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2009,EP,810,Spišská Nová Ves,KDH,KDH,1997
 2009,EP,811,Trebišov,KDH,KDH,937
 2009,EP,,,KDH,KDH,0
-2009,EP,,Spolu za SR,KDH,KDH,89905
 2009,EP,,,KDH,KDH,0
-2009,EP,,v tom,KDH,KDH,0
 2009,EP,,,KDH,KDH,0
-2009,EP,,mestá a mestské časti,KDH,KDH,46625
 2009,EP,,,KDH,KDH,0
-2009,EP,,obce,KDH,KDH,43280
 2014,EP,101,Bratislava I,"NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana","NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana",1662
 2014,EP,102,Bratislava II,"NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana","NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana",2363
 2014,EP,103,Bratislava III,"NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana","NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana",1610
@@ -15739,7 +15658,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,"NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana","NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana",70
 2014,EP,810,Spišská Nová Ves,"NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana","NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana",473
 2014,EP,811,Trebišov,"NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana","NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana",382
-2014,EP,,Spolu za SR,"NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana","NOVA, Konzervatívni demokrati Slovenska, Občianska konzervatívna strana",38316
 2014,EP,101,Bratislava I,Kresťanskodemokratické hnutie,KDH,933
 2014,EP,102,Bratislava II,Kresťanskodemokratické hnutie,KDH,1729
 2014,EP,103,Bratislava III,Kresťanskodemokratické hnutie,KDH,1090
@@ -15819,7 +15737,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Kresťanskodemokratické hnutie,KDH,348
 2014,EP,810,Spišská Nová Ves,Kresťanskodemokratické hnutie,KDH,1529
 2014,EP,811,Trebišov,Kresťanskodemokratické hnutie,KDH,714
-2014,EP,,Spolu za SR,Kresťanskodemokratické hnutie,KDH,74108
 2014,EP,101,Bratislava I,SMER - sociálna demokracia,SMER-SD,1349
 2014,EP,102,Bratislava II,SMER - sociálna demokracia,SMER-SD,3741
 2014,EP,103,Bratislava III,SMER - sociálna demokracia,SMER-SD,2313
@@ -15899,7 +15816,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,SMER - sociálna demokracia,SMER-SD,1004
 2014,EP,810,Spišská Nová Ves,SMER - sociálna demokracia,SMER-SD,1746
 2014,EP,811,Trebišov,SMER - sociálna demokracia,SMER-SD,2147
-2014,EP,,Spolu za SR,SMER - sociálna demokracia,SMER-SD,135089
 2014,EP,101,Bratislava I,Slovenská ľudová strana,SĽS - Andreja Hlinku,19
 2014,EP,102,Bratislava II,Slovenská ľudová strana,SĽS - Andreja Hlinku,31
 2014,EP,103,Bratislava III,Slovenská ľudová strana,SĽS - Andreja Hlinku,27
@@ -15979,7 +15895,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Slovenská ľudová strana,SĽS - Andreja Hlinku,3
 2014,EP,810,Spišská Nová Ves,Slovenská ľudová strana,SĽS - Andreja Hlinku,27
 2014,EP,811,Trebišov,Slovenská ľudová strana,SĽS - Andreja Hlinku,31
-2014,EP,,Spolu za SR,Slovenská ľudová strana,SĽS - Andreja Hlinku,2590
 2014,EP,101,Bratislava I,Národ a Spravodlivosť - naša strana,Národ a Spravodlivosť - naša strana,84
 2014,EP,102,Bratislava II,Národ a Spravodlivosť - naša strana,Národ a Spravodlivosť - naša strana,244
 2014,EP,103,Bratislava III,Národ a Spravodlivosť - naša strana,Národ a Spravodlivosť - naša strana,134
@@ -16059,7 +15974,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Národ a Spravodlivosť - naša strana,Národ a Spravodlivosť - naša strana,24
 2014,EP,810,Spišská Nová Ves,Národ a Spravodlivosť - naša strana,Národ a Spravodlivosť - naša strana,90
 2014,EP,811,Trebišov,Národ a Spravodlivosť - naša strana,Národ a Spravodlivosť - naša strana,94
-2014,EP,,Spolu za SR,Národ a Spravodlivosť - naša strana,Národ a Spravodlivosť - naša strana,7763
 2014,EP,101,Bratislava I,Magnificat Slovakia,Magnificat Slovakia,45
 2014,EP,102,Bratislava II,Magnificat Slovakia,Magnificat Slovakia,111
 2014,EP,103,Bratislava III,Magnificat Slovakia,Magnificat Slovakia,65
@@ -16139,7 +16053,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Magnificat Slovakia,Magnificat Slovakia,45
 2014,EP,810,Spišská Nová Ves,Magnificat Slovakia,Magnificat Slovakia,136
 2014,EP,811,Trebišov,Magnificat Slovakia,Magnificat Slovakia,139
-2014,EP,,Spolu za SR,Magnificat Slovakia,Magnificat Slovakia,6646
 2014,EP,101,Bratislava I,DEMOKRATICKÁ OBČIANSKA STRANA,DEMOKRATICKÁ OBČIANSKA STRANA,4
 2014,EP,102,Bratislava II,DEMOKRATICKÁ OBČIANSKA STRANA,DEMOKRATICKÁ OBČIANSKA STRANA,13
 2014,EP,103,Bratislava III,DEMOKRATICKÁ OBČIANSKA STRANA,DEMOKRATICKÁ OBČIANSKA STRANA,6
@@ -16219,7 +16132,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,DEMOKRATICKÁ OBČIANSKA STRANA,DEMOKRATICKÁ OBČIANSKA STRANA,7
 2014,EP,810,Spišská Nová Ves,DEMOKRATICKÁ OBČIANSKA STRANA,DEMOKRATICKÁ OBČIANSKA STRANA,8
 2014,EP,811,Trebišov,DEMOKRATICKÁ OBČIANSKA STRANA,DEMOKRATICKÁ OBČIANSKA STRANA,11
-2014,EP,,Spolu za SR,DEMOKRATICKÁ OBČIANSKA STRANA,DEMOKRATICKÁ OBČIANSKA STRANA,1273
 2014,EP,101,Bratislava I,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,13
 2014,EP,102,Bratislava II,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,31
 2014,EP,103,Bratislava III,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,14
@@ -16299,7 +16211,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,22
 2014,EP,810,Spišská Nová Ves,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,42
 2014,EP,811,Trebišov,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,81
-2014,EP,,Spolu za SR,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,7 STATOČNÝCH REGIONÁLNA STRANA SLOVENSKA,2696
 2014,EP,101,Bratislava I,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,3
 2014,EP,102,Bratislava II,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,6
 2014,EP,103,Bratislava III,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,3
@@ -16379,7 +16290,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,2
 2014,EP,810,Spišská Nová Ves,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,1
 2014,EP,811,Trebišov,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,111
-2014,EP,,Spolu za SR,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,Maďarská kresťanskodemokratická aliancia - Magyar Kereszténydemokrata Szövetség,1170
 2014,EP,101,Bratislava I,Strana TIP,Strana TIP,162
 2014,EP,102,Bratislava II,Strana TIP,Strana TIP,485
 2014,EP,103,Bratislava III,Strana TIP,Strana TIP,377
@@ -16459,7 +16369,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Strana TIP,Strana TIP,96
 2014,EP,810,Spišská Nová Ves,Strana TIP,Strana TIP,284
 2014,EP,811,Trebišov,Strana TIP,Strana TIP,384
-2014,EP,,Spolu za SR,Strana TIP,Strana TIP,20730
 2014,EP,101,Bratislava I,Ľudová strana Naše Slovensko,ĽSNS - Kotlebovci,79
 2014,EP,102,Bratislava II,Ľudová strana Naše Slovensko,ĽSNS - Kotlebovci,187
 2014,EP,103,Bratislava III,Ľudová strana Naše Slovensko,ĽSNS - Kotlebovci,85
@@ -16539,7 +16448,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Ľudová strana Naše Slovensko,ĽSNS - Kotlebovci,50
 2014,EP,810,Spišská Nová Ves,Ľudová strana Naše Slovensko,ĽSNS - Kotlebovci,138
 2014,EP,811,Trebišov,Ľudová strana Naše Slovensko,ĽSNS - Kotlebovci,116
-2014,EP,,Spolu za SR,Ľudová strana Naše Slovensko,ĽSNS - Kotlebovci,9749
 2014,EP,101,Bratislava I,EURÓPSKA DEMOKRATICKÁ STRANA,EURÓPSKA DEMOKRATICKÁ STRANA,70
 2014,EP,102,Bratislava II,EURÓPSKA DEMOKRATICKÁ STRANA,EURÓPSKA DEMOKRATICKÁ STRANA,84
 2014,EP,103,Bratislava III,EURÓPSKA DEMOKRATICKÁ STRANA,EURÓPSKA DEMOKRATICKÁ STRANA,73
@@ -16619,7 +16527,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,EURÓPSKA DEMOKRATICKÁ STRANA,EURÓPSKA DEMOKRATICKÁ STRANA,52
 2014,EP,810,Spišská Nová Ves,EURÓPSKA DEMOKRATICKÁ STRANA,EURÓPSKA DEMOKRATICKÁ STRANA,34
 2014,EP,811,Trebišov,EURÓPSKA DEMOKRATICKÁ STRANA,EURÓPSKA DEMOKRATICKÁ STRANA,111
-2014,EP,,Spolu za SR,EURÓPSKA DEMOKRATICKÁ STRANA,EURÓPSKA DEMOKRATICKÁ STRANA,3739
 2014,EP,101,Bratislava I,NOVÝ PARLAMENT,NOVÝ PARLAMENT,11
 2014,EP,102,Bratislava II,NOVÝ PARLAMENT,NOVÝ PARLAMENT,35
 2014,EP,103,Bratislava III,NOVÝ PARLAMENT,NOVÝ PARLAMENT,23
@@ -16699,7 +16606,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,NOVÝ PARLAMENT,NOVÝ PARLAMENT,3
 2014,EP,810,Spišská Nová Ves,NOVÝ PARLAMENT,NOVÝ PARLAMENT,16
 2014,EP,811,Trebišov,NOVÝ PARLAMENT,NOVÝ PARLAMENT,23
-2014,EP,,Spolu za SR,NOVÝ PARLAMENT,NOVÝ PARLAMENT,900
 2014,EP,101,Bratislava I,MOST - HÍD,Most-Híd,563
 2014,EP,102,Bratislava II,MOST - HÍD,Most-Híd,950
 2014,EP,103,Bratislava III,MOST - HÍD,Most-Híd,480
@@ -16779,7 +16685,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,MOST - HÍD,Most-Híd,13
 2014,EP,810,Spišská Nová Ves,MOST - HÍD,Most-Híd,48
 2014,EP,811,Trebišov,MOST - HÍD,Most-Híd,899
-2014,EP,,Spolu za SR,MOST - HÍD,Most-Híd,32708
 2014,EP,101,Bratislava I,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,18
 2014,EP,102,Bratislava II,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,40
 2014,EP,103,Bratislava III,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,26
@@ -16859,7 +16764,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,9
 2014,EP,810,Spišská Nová Ves,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,124
 2014,EP,811,Trebišov,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,33
-2014,EP,,Spolu za SR,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,Kresťanská SLOVENSKÁ NÁRODNÁ STRANA,3631
 2014,EP,101,Bratislava I,Strana demokratického Slovenska,Strana demokratického Slovenska,61
 2014,EP,102,Bratislava II,Strana demokratického Slovenska,Strana demokratického Slovenska,166
 2014,EP,103,Bratislava III,Strana demokratického Slovenska,Strana demokratického Slovenska,94
@@ -16939,7 +16843,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Strana demokratického Slovenska,Strana demokratického Slovenska,60
 2014,EP,810,Spišská Nová Ves,Strana demokratického Slovenska,Strana demokratického Slovenska,156
 2014,EP,811,Trebišov,Strana demokratického Slovenska,Strana demokratického Slovenska,231
-2014,EP,,Spolu za SR,Strana demokratického Slovenska,Strana demokratického Slovenska,8378
 2014,EP,101,Bratislava I,Strana zelených,Strana zelených,33
 2014,EP,102,Bratislava II,Strana zelených,Strana zelených,94
 2014,EP,103,Bratislava III,Strana zelených,Strana zelených,62
@@ -17019,7 +16922,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Strana zelených,Strana zelených,8
 2014,EP,810,Spišská Nová Ves,Strana zelených,Strana zelených,29
 2014,EP,811,Trebišov,Strana zelených,Strana zelených,15
-2014,EP,,Spolu za SR,Strana zelených,Strana zelených,2623
 2014,EP,101,Bratislava I,VZDOR - strana práce,VZDOR,3
 2014,EP,102,Bratislava II,VZDOR - strana práce,VZDOR,17
 2014,EP,103,Bratislava III,VZDOR - strana práce,VZDOR,12
@@ -17099,7 +17001,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,VZDOR - strana práce,VZDOR,9
 2014,EP,810,Spišská Nová Ves,VZDOR - strana práce,VZDOR,58
 2014,EP,811,Trebišov,VZDOR - strana práce,VZDOR,16
-2014,EP,,Spolu za SR,VZDOR - strana práce,VZDOR,1769
 2014,EP,101,Bratislava I,OBYČAJNÍ ĽUDIA a nezávislé osobnosti,OĽaNO / SLOVENSKO,553
 2014,EP,102,Bratislava II,OBYČAJNÍ ĽUDIA a nezávislé osobnosti,OĽaNO / SLOVENSKO,921
 2014,EP,103,Bratislava III,OBYČAJNÍ ĽUDIA a nezávislé osobnosti,OĽaNO / SLOVENSKO,721
@@ -17179,7 +17080,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,OBYČAJNÍ ĽUDIA a nezávislé osobnosti,OĽaNO / SLOVENSKO,104
 2014,EP,810,Spišská Nová Ves,OBYČAJNÍ ĽUDIA a nezávislé osobnosti,OĽaNO / SLOVENSKO,600
 2014,EP,811,Trebišov,OBYČAJNÍ ĽUDIA a nezávislé osobnosti,OĽaNO / SLOVENSKO,326
-2014,EP,,Spolu za SR,OBYČAJNÍ ĽUDIA a nezávislé osobnosti,OĽaNO / SLOVENSKO,41829
 2014,EP,101,Bratislava I,PRÁVO A SPRAVODLIVOSŤ,PRÁVO A SPRAVODLIVOSŤ,88
 2014,EP,102,Bratislava II,PRÁVO A SPRAVODLIVOSŤ,PRÁVO A SPRAVODLIVOSŤ,272
 2014,EP,103,Bratislava III,PRÁVO A SPRAVODLIVOSŤ,PRÁVO A SPRAVODLIVOSŤ,150
@@ -17259,7 +17159,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,PRÁVO A SPRAVODLIVOSŤ,PRÁVO A SPRAVODLIVOSŤ,50
 2014,EP,810,Spišská Nová Ves,PRÁVO A SPRAVODLIVOSŤ,PRÁVO A SPRAVODLIVOSŤ,147
 2014,EP,811,Trebišov,PRÁVO A SPRAVODLIVOSŤ,PRÁVO A SPRAVODLIVOSŤ,146
-2014,EP,,Spolu za SR,PRÁVO A SPRAVODLIVOSŤ,PRÁVO A SPRAVODLIVOSŤ,9322
 2014,EP,101,Bratislava I,Sloboda a Solidarita,SaS,1149
 2014,EP,102,Bratislava II,Sloboda a Solidarita,SaS,2155
 2014,EP,103,Bratislava III,Sloboda a Solidarita,SaS,1379
@@ -17339,7 +17238,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Sloboda a Solidarita,SaS,78
 2014,EP,810,Spišská Nová Ves,Sloboda a Solidarita,SaS,387
 2014,EP,811,Trebišov,Sloboda a Solidarita,SaS,298
-2014,EP,,Spolu za SR,Sloboda a Solidarita,SaS,37376
 2014,EP,101,Bratislava I,Strana moderného Slovenska,Strana moderného Slovenska,39
 2014,EP,102,Bratislava II,Strana moderného Slovenska,Strana moderného Slovenska,48
 2014,EP,103,Bratislava III,Strana moderného Slovenska,Strana moderného Slovenska,20
@@ -17419,7 +17317,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Strana moderného Slovenska,Strana moderného Slovenska,61
 2014,EP,810,Spišská Nová Ves,Strana moderného Slovenska,Strana moderného Slovenska,54
 2014,EP,811,Trebišov,Strana moderného Slovenska,Strana moderného Slovenska,47
-2014,EP,,Spolu za SR,Strana moderného Slovenska,Strana moderného Slovenska,2851
 2014,EP,101,Bratislava I,Komunistická strana Slovenska,KSS,86
 2014,EP,102,Bratislava II,Komunistická strana Slovenska,KSS,170
 2014,EP,103,Bratislava III,Komunistická strana Slovenska,KSS,105
@@ -17499,7 +17396,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Komunistická strana Slovenska,KSS,40
 2014,EP,810,Spišská Nová Ves,Komunistická strana Slovenska,KSS,112
 2014,EP,811,Trebišov,Komunistická strana Slovenska,KSS,125
-2014,EP,,Spolu za SR,Komunistická strana Slovenska,KSS,8518
 2014,EP,101,Bratislava I,ÚSVIT,ÚSVIT,17
 2014,EP,102,Bratislava II,ÚSVIT,ÚSVIT,39
 2014,EP,103,Bratislava III,ÚSVIT,ÚSVIT,19
@@ -17579,7 +17475,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,ÚSVIT,ÚSVIT,9
 2014,EP,810,Spišská Nová Ves,ÚSVIT,ÚSVIT,9
 2014,EP,811,Trebišov,ÚSVIT,ÚSVIT,47
-2014,EP,,Spolu za SR,ÚSVIT,ÚSVIT,2773
 2014,EP,101,Bratislava I,Strana občianskej ľavice,Strana občianskej ľavice,9
 2014,EP,102,Bratislava II,Strana občianskej ľavice,Strana občianskej ľavice,14
 2014,EP,103,Bratislava III,Strana občianskej ľavice,Strana občianskej ľavice,4
@@ -17659,7 +17554,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Strana občianskej ľavice,Strana občianskej ľavice,6
 2014,EP,810,Spišská Nová Ves,Strana občianskej ľavice,Strana občianskej ľavice,7
 2014,EP,811,Trebišov,Strana občianskej ľavice,Strana občianskej ľavice,3
-2014,EP,,Spolu za SR,Strana občianskej ľavice,Strana občianskej ľavice,1311
 2014,EP,101,Bratislava I,Slovenská národná strana,SNS,182
 2014,EP,102,Bratislava II,Slovenská národná strana,SNS,548
 2014,EP,103,Bratislava III,Slovenská národná strana,SNS,404
@@ -17739,7 +17633,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Slovenská národná strana,SNS,137
 2014,EP,810,Spišská Nová Ves,Slovenská národná strana,SNS,218
 2014,EP,811,Trebišov,Slovenská národná strana,SNS,125
-2014,EP,,Spolu za SR,Slovenská národná strana,SNS,20244
 2014,EP,101,Bratislava I,Slovenská demokratická a kresťanská únia - Demokratická strana,SDKÚ-DS,1546
 2014,EP,102,Bratislava II,Slovenská demokratická a kresťanská únia - Demokratická strana,SDKÚ-DS,2639
 2014,EP,103,Bratislava III,Slovenská demokratická a kresťanská únia - Demokratická strana,SDKÚ-DS,1775
@@ -17819,7 +17712,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Slovenská demokratická a kresťanská únia - Demokratická strana,SDKÚ-DS,137
 2014,EP,810,Spišská Nová Ves,Slovenská demokratická a kresťanská únia - Demokratická strana,SDKÚ-DS,476
 2014,EP,811,Trebišov,Slovenská demokratická a kresťanská únia - Demokratická strana,SDKÚ-DS,302
-2014,EP,,Spolu za SR,Slovenská demokratická a kresťanská únia - Demokratická strana,SDKÚ-DS,43467
 2014,EP,101,Bratislava I,"PRIAMA DEMOKRACIA, Kresťanská ľudová strana",PRIAMA DEMOKRACIA,45
 2014,EP,102,Bratislava II,"PRIAMA DEMOKRACIA, Kresťanská ľudová strana",PRIAMA DEMOKRACIA,59
 2014,EP,103,Bratislava III,"PRIAMA DEMOKRACIA, Kresťanská ľudová strana",PRIAMA DEMOKRACIA,58
@@ -17899,7 +17791,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,"PRIAMA DEMOKRACIA, Kresťanská ľudová strana",PRIAMA DEMOKRACIA,22
 2014,EP,810,Spišská Nová Ves,"PRIAMA DEMOKRACIA, Kresťanská ľudová strana",PRIAMA DEMOKRACIA,25
 2014,EP,811,Trebišov,"PRIAMA DEMOKRACIA, Kresťanská ľudová strana",PRIAMA DEMOKRACIA,27
-2014,EP,,Spolu za SR,"PRIAMA DEMOKRACIA, Kresťanská ľudová strana",PRIAMA DEMOKRACIA,2405
 2014,EP,101,Bratislava I,Strana maďarskej komunity - Magyar Közösség Pártja,SMK / Aliancia,84
 2014,EP,102,Bratislava II,Strana maďarskej komunity - Magyar Közösség Pártja,SMK / Aliancia,305
 2014,EP,103,Bratislava III,Strana maďarskej komunity - Magyar Közösség Pártja,SMK / Aliancia,88
@@ -17979,7 +17870,6 @@ election_year,election_type,district_id,district_name,original_party_name,party_
 2014,EP,809,Sobrance,Strana maďarskej komunity - Magyar Közösség Pártja,SMK / Aliancia,38
 2014,EP,810,Spišská Nová Ves,Strana maďarskej komunity - Magyar Közösség Pártja,SMK / Aliancia,9
 2014,EP,811,Trebišov,Strana maďarskej komunity - Magyar Közösség Pártja,SMK / Aliancia,1822
-2014,EP,,Spolu za SR,Strana maďarskej komunity - Magyar Közösség Pártja,SMK / Aliancia,36629
 2019,EP,101,Bratislava I,SMER - sociálna demokracia,SMER-SD,1004
 2019,EP,101,Bratislava I,Kresťanská demokracia - Život a prosperita,Kresťanská demokracia - Život a prosperita,127
 2019,EP,101,Bratislava I,Kotleba - Ľudová strana Naše Slovensko,ĽSNS - Kotlebovci,969

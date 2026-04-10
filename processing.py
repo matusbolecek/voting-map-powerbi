@@ -178,6 +178,10 @@ class National(Base, Election):
 
         df = df.drop(columns=["platných hlasov spolu"])
 
+        df = df[
+            ~df["Okres"].str.contains("v tom|mestá|obce|kraj", na=False, regex=True)
+        ]
+
         return df
 
     @staticmethod
@@ -195,7 +199,9 @@ class National(Base, Election):
         df = df[~df["Okres"].str.contains("kraj", na=False)]
 
         # obce - towns...
-        df = df.drop(index=[195, 196, 198])
+        df = df[
+            ~df["Okres"].str.contains("v tom|mestá|obce|kraj", na=False, regex=True)
+        ]
 
         # spolu - total
         df = df[~df["Okres"].astype(str).str.contains("Spolu za SR")]
@@ -212,6 +218,10 @@ class National(Base, Election):
         df = df.loc[:, ~df.columns.str.contains("Počet")]
 
         df = df.rename(columns={df.columns[0]: "Kód Okresu", df.columns[1]: "Okres"})
+
+        df = df[
+            ~df["Okres"].str.contains("v tom|mestá|obce|kraj", na=False, regex=True)
+        ]
 
         return df
 
@@ -231,6 +241,10 @@ class National(Base, Election):
         df = df.loc[:, ~df.columns.str.contains("Počet")]
 
         df = df.rename(columns={df.columns[0]: "Kód Okresu"})
+
+        df = df[
+            ~df["Okres"].str.contains("v tom|mestá|obce|kraj", na=False, regex=True)
+        ]
 
         return df
 
@@ -252,6 +266,7 @@ class Euro(Base, Election):
         df.columns = cols
 
         df = df.dropna(subset=["Okres"])
+        df = df[~df["Okres"].astype(str).str.contains("Spolu za SR")]
         df = df.drop(df.columns[1], axis=1)
 
         df = Base.fill_disctrict_codes(df)
@@ -270,11 +285,16 @@ class Euro(Base, Election):
         df.columns = cols
 
         df = df.dropna(subset=["Okres"])
+        df = df[~df["Okres"].astype(str).str.contains("Spolu za SR")]
         df = df.drop(df.columns[1], axis=1)
 
         df = Base.fill_disctrict_codes(df)
 
         df = df.loc[:, df.columns.notna()]
+
+        df = df[
+            ~df["Okres"].str.contains("v tom|mestá|obce|kraj", na=False, regex=True)
+        ]
 
         return df
 

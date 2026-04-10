@@ -190,13 +190,8 @@ class Districts(Dimension):
         super().__init__()
 
     def process(self):
-        # Does not matter which one we pick - all data is the same
-        df_old = self.election_df[
-            (self.election_df["election_year"] == 2002)
-            & (self.election_df["election_type"] == "NR SR")
-        ]
-
-        df = df_old[["district_id", "district_name"]]
+        df = self.election_df[["district_id", "district_name"]].drop_duplicates()
+        df = df[df["district_id"].notna() & (df["district_id"] != "")]
 
         # Some sheets have this scheme, thus it is also added
         df["district_id_alt"] = "SK" + df["district_id"].astype(str)
