@@ -82,142 +82,162 @@ DISTRICT_TO_LAU1 = {
 }
 
 UNIVERSAL_PARTY_NAMES = {
-    # SMER - sociálna demokracia
+    # SMER – sociálna demokracia (Direction – Social Democracy)
     "SMER": "SMER-SD",
-    "SMER (tretia cesta)": "SMER-SD",
-    "SMER - SD": "SMER-SD",
+    "SMER (tretia cesta)": "SMER-SD",      # former name in 2003
+    "SMER - SD": "SMER-SD",              # variant
     "SMER-SD": "SMER-SD",
     "SMER - sociálna demokracia": "SMER-SD",
-    # SDKÚ-DS
+
+    # Slovenská demokratická a kresťanská únia – Demokratická strana (SDKÚ-DS)
     "SDKÚ": "SDKÚ-DS",
     "SDKÚ - DS": "SDKÚ-DS",
     "SDKÚ- DS": "SDKÚ-DS",
     "SDKÚ-DS": "SDKÚ-DS",
     "Slovenská demokratická a kresťanská únia - Demokratická strana": "SDKÚ-DS",
     "SDKÚ - DS - Slovenská demokratická a kresťanská únia - Demokratická strana": "SDKÚ-DS",
-    # OĽaNO / Slovensko
-    "OĽaNO": "OĽaNO / SLOVENSKO",
-    "Obyčajní ľudia": "OĽaNO / SLOVENSKO",
-    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti": "OĽaNO / SLOVENSKO",
-    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO - NOVA)": "OĽaNO / SLOVENSKO",
-    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO)": "OĽaNO / SLOVENSKO",
-    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA": "OĽaNO / SLOVENSKO",
-    "OĽANO A PRIATELIA: OBYČAJNÍ ĽUDIA (OĽANO), NEZÁVISLÍ KANDIDÁTI (NEKA), NOVA, SLOBODNÍ A ZODPOVEDNÍ, PAČIVALE ROMA, MAGYAR SZÍVEK a Kresťanská únia a ZA ĽUDÍ": "OĽaNO / SLOVENSKO",
-    "SLOVENSKO, ZA ĽUDÍ": "OĽaNO / SLOVENSKO",
+
+    # OĽANO (Ordinary People and Independent Personalities) and coalitions
+    "OĽANO": "OĽANO / SLOVENSKO",
+    "Obyčajní ľudia": "OĽANO / SLOVENSKO",
+    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti": "OĽANO / SLOVENSKO",
+    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO - NOVA)": "OĽANO / SLOVENSKO",
+    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO)": "OĽANO / SLOVENSKO",
+    "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA": "OĽANO / SLOVENSKO",
+    "OĽANO A PRIATELIA: OBYČAJNÍ ĽUDIA (OĽANO), NEZÁVISLÍ KANDIDÁTI (NEKA), NOVA, SLOBODNÍ A ZODPOVEDNÍ, PAČIVALE ROMA, MAGYAR SZÍVEK a Kresťanská únia a ZA ĽUDÍ": "OĽANO / SLOVENSKO",
+    "SLOVENSKO, ZA ĽUDÍ": "OĽANO / SLOVENSKO",  # coalition name including OĽANO
+
     # Sloboda a Solidarita (SaS)
     "SaS": "SaS",
     "Sloboda a Solidarita": "SaS",
-    # Hlas - sociálna demokracia
+
+    # Hlas - sociálna demokracia (Voice – Social Democracy)
     "HLAS - sociálna demokracia": "Hlas-SD",
-    # Progresívne Slovensko (PS)
+    "HLAS ĽUDU": "Hlas-SD",  # variant of party name
+
+    # Progressive Slovakia (PS)
     "PS": "Progresívne Slovensko",
     "Koalícia Progresívne Slovensko a SPOLU - občianska demokracia": "Progresívne Slovensko",
     "Progresívne Slovensko": "Progresívne Slovensko",
+
     # Kresťanskodemokratické hnutie (KDH)
     "KDH": "KDH",
     "Kresťanskodemokratické hnutie": "KDH",
+
     # Slovenská národná strana (SNS)
     "SNS": "SNS",
-    "SNS, P SNS": "SNS",
+    "SNS, P SNS": "SNS",  # coalition entry (Partyfacts indicates P SNS allied with SNS)
     "Slovenská národná strana": "SNS",
-    # ĽS-HZDS
-    "HZDS": "ĽS-HZDS",
-    "ĽS - HZDS": "ĽS-HZDS",
-    "ĽS-HZDS": "ĽS-HZDS",
-    # SMK / Aliancia (Hungarian minority parties)
-    "SMK-MKP": "SMK / Aliancia",
-    "SMK - MKP": "SMK / Aliancia",
-    "Strana maďarskej komunity - Magyar Közösség Pártja": "SMK / Aliancia",
-    "Magyar Közösségi Összefogás - Maďarská komunitná spolupatričnosť": "SMK / Aliancia",
-    "SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny": "SMK / Aliancia",
-    "Magyar Szövetség - Maďarská aliancia": "SMK / Aliancia",
-    # Most-Híd
+
+    # Slovenská ľudová strana (Andrej Hlinka) (SĽS)
+    "Slovenská ľudová strana": "Slovenská ľudová strana",  # fallback if variant found
+    "SĽS": "Slovenská ľudová strana",
+    "Slovenská ľudová strana Andreja Hlinku": "Slovenská ľudová strana",
+
+    # Democratic Party (DS)
+    "DS": "Demokratická strana",
+    "DS - Ľudovít Kaník": "Demokratická strana",
+    "Demokratická strana": "Demokratická strana",
+
+    # Civic Conservative Party (OKS)
+    "OKS": "OKS",
+    "Občianska konzervatívna strana": "OKS",
+
+    # Most-Híd (Bridge)
     "MOST - HÍD": "Most-Híd",
-    "Modrí, Most - Híd": "Most-Híd",
-    # Kotleba / ĽSNS
-    "ĽSNS": "ĽSNS - Kotlebovci",
-    "ĽS Naše Slovensko": "ĽSNS - Kotlebovci",
-    "Ľudová strana Naše Slovensko": "ĽSNS - Kotlebovci",
-    "Kotleba - Ľudová strana Naše Slovensko": "ĽSNS - Kotlebovci",
-    "Kotlebovci - Ľudová strana Naše Slovensko": "ĽSNS - Kotlebovci",
-    # Sme Rodina
-    "SME RODINA - Boris Kollár": "Sme Rodina",
-    "SME RODINA": "Sme Rodina",
-    # Republika
-    "REPUBLIKA": "Republika",
+    "Most - Híd": "Most-Híd",
+    "Most-Híd": "Most-Híd",
+    "Modrí, Most - Híd": "Most-Híd",  # coalition name (Híd main party)
+
     # Komunistická strana Slovenska (KSS)
     "KSS": "KSS",
     "Komunistická strana Slovenska": "KSS",
-    "Koalícia Komunistická strana Slovenska, VZDOR - strana práce": "KSS",
-    # Strana zelených (SZ / SZS)
+
+    # Strana zelených (SZ, SZS)
     "SZ": "Strana zelených",
     "SZS": "Strana zelených",
     "Zelení": "Strana zelených",
     "Strana zelených": "Strana zelených",
     "Strana zelených Slovenska": "Strana zelených",
-    # Slovenská ľudová strana (SĽS)
-    "SĽS": "SĽS - Andreja Hlinku",
-    "Slovenská ľudová strana": "SĽS - Andreja Hlinku",
-    "Slovenská ľudová strana Andreja Hlinku": "SĽS - Andreja Hlinku",
-    # Demokratická strana (DS)
-    "DS": "Demokratická strana",
-    "DS - Ľudo Kaník": "Demokratická strana",
-    "Demokratická strana": "Demokratická strana",
-    # Občianska konzervatívna strana (OKS)
-    "OKS": "OKS",
-    "Občianska konzervatívna strana": "OKS",
-    # Vlasť / Vlastenecký blok
+
+    # Ľudová strana Naše Slovensko - Kotlebovci (ĽSNS)
+    "Ľudová strana Naše Slovensko": "Ľudová strana Naše Slovensko",
+    "Kotlebovci - Ľudová strana Naše Slovensko": "Ľudová strana Naše Slovensko",
+    "Kotleba - Ľudová strana Naše Slovensko": "Ľudová strana Naše Slovensko",
+
+    # Sme Rodina
+    "SME RODINA - Boris Kollár": "Sme Rodina",
+    "SME RODINA": "Sme Rodina",
+
+    # Republika
+    "REPUBLIKA": "Republika",
+
+    # Vlasť and related
     "VLASŤ": "Vlasť",
     "Vlastenecký blok": "Vlastenecký blok",
-    # HZD
-    "HZD": "HZD",
-    "HZD, ĽÚ": "HZD",
-    # VZDOR
-    "VZDOR": "VZDOR",
+
+    # Kresťanská únia (KÚ) – Christian Union
+    "Kresťanská únia (KÚ)": "Kresťanská únia",
+
+    # VZDOR – strana práce
     "VZDOR - strana práce": "VZDOR",
-    # TIP
+    "VZDOR": "VZDOR",
+
+    # TIP (Strana TIP)
     "TIP": "Strana TIP",
     "Strana TIP": "Strana TIP",
-    # 99%
-    "99%": "99 % - občiansky hlas",
+
+    # 99 % – občiansky hlas
+    "99 %": "99 % - občiansky hlas",
     "99 % - občiansky hlas": "99 % - občiansky hlas",
-    # Priama Demokracia
+
+    # Priama Demokracia (PD)
     "PD": "PRIAMA DEMOKRACIA",
     "PRIAMA DEMOKRACIA": "PRIAMA DEMOKRACIA",
     "PRIAMA DEMOKRACIA, Kresťanská ľudová strana": "PRIAMA DEMOKRACIA",
+
+    # -- Unknown/Small parties, listed as themselves (with note) --
+    "SDPO": "SDPO",                         # small, defunct Social Democratic Party
+    "S.O.S.": "S.O.S.",                     # small
+    "Misia 21": "Misia 21",                 # small (founded by Ivan Šimko)
+    "Nádej": "Nádej",                       # small party (Nádej = "Hope")
+    "ANO": "ANO",                           # Alliance of the New Citizen (Aliancia nového občana)
+    "Slobodná vzbura": "Slobodná vzbura",   # small
+    "Priama demokracia": "PRIAMA DEMOKRACIA",  # alternative spelling
+    "Zmena zdola, DÚ": "Zmena zdola, DÚ",   # small (Change from Below)
 }
 
 PARTY_COLORS = {
-    "SMER-SD": "#CC0000",
-    "SDKÚ-DS": "#003399",
-    "OĽaNO / SLOVENSKO": "#1F9ED6",  
-    "SaS": "#7AC143",  
-    "Hlas-SD": "#E30613",  
-    "Progresívne Slovensko": "#00AEEF",
-    "KDH": "#97F3FF",  
-    "SNS": "#0B4EA2",  
-    "ĽS-HZDS": "#F7941E",
-    "Sme Rodina": "#00A4AC",
-    
-    "SMK / Aliancia": "#00914D",
-    "Most-Híd": "#FF6600",
-    "Most-Híd / Modrí": "#FF6600",
-    
-    "ĽSNS - Kotlebovci": "#00611C",
-    "Republika": "#1D1D1B",
-    "Vlasť": "#ED1C24",
-    "Vlastenecký blok": "#C1272D",
-    "SĽS - Andreja Hlinku": "#8B4513",  # Uncertain
-    
-    "KSS": "#FF0000",
-    "VZDOR": "#990000",
-    
-    "Strana zelených": "#33CC33",
-    
-    "Demokratická strana": "#002366",
-    "OKS": "#800000",
-    "HZD": "#005DA3",  # Uncertain
-    "Strana TIP": "#E6007E",
-    "99 % - občiansky hlas": "#FFD700",
-    "PRIAMA DEMOKRACIA": "#708090",  # Uncertain
+    "SMER-SD": "#CC0000",                # red (Smer's primary color)
+    "SDKÚ-DS": "#003399",                # blue (SDKÚ's official color)
+    "OĽANO / SLOVENSKO": "#8DC63F",      # light green (OĽaNO's traditional iconic brand color)
+    "SaS": "#7AC143",                    # green (SaS logo color)
+    "Hlas-SD": "#E30613",                # red (Hlas uses a strong red)
+    "Progresívne Slovensko": "#00AEEF",  # capri blue / cyan (PS signature color)
+    "KDH": "#1E3E84",                    # dark blue (KDH's official conservative blue)
+    "SNS": "#0B4EA2",                    # blue (SNS traditional color)
+    "ĽS-HZDS": "#005DA3",                # blue (HZDS logo was strictly blue, white, and red)
+    "Sme Rodina": "#00A4AC",             # turquoise (party's branding)
+    "SMK / Aliancia": "#00914D",         # green (Hungarian parties) 
+    "Most-Híd": "#FF6600",               # orange
+    "Most-Híd / Modrí": "#FF6600",       # same coalition color
+    "ĽSNS": "#00611C",                   # dark green
+    "Republika": "#1D1D1B",              # black (party's logo is black and red) 
+    "Vlasť": "#ED1C24",                  # red
+    "Vlastenecký blok": "#C1272D",       # dark red
+    "Slovenská ľudová strana": "#8B4513",# brown (approximate/historical)
+    "KSS": "#FF0000",                    # red
+    "VZDOR": "#990000",                  # dark red
+    "Strana zelených": "#33CC33",        # green (Zelení)
+    "Demokratická strana": "#002366",    # navy blue
+    "OKS": "#FFCC00",                    # yellow/gold (OKS's logo is yellow and black)
+    "HZD": "#8B0000",                    # dark red (Gašparovič's HZD used a dark red/burgundy logo)
+    "Strana TIP": "#E6007E",             # magenta (TIP's color)
+    "99 % - občiansky hlas": "#FFD700",  # gold/yellow
+    "PRIAMA DEMOKRACIA": "#708090",      # slate grey
+    "ANO": "#FDDA0D",                    # small/defunct
+    "Zmena zdola, DÚ": "#0A33FF",        # small/defunct
+    "S.O.S.": "#2BB1DE",                 # small/defunct
+    "Misia 21": "#808080",               # small/defunct
+    "UU": "#808080",                     # placeholder
 }
