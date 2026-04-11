@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-This project is an extension of my [2025 Slovak Geography Olympiad entry](https://matusbolecek.com/#expand-geo), which was focused on Electoral Geography in Slovakia. This repository hosts the modular data engineering pipeline and necessary files for running my publicly available **[Interactive Election Map](https://matusbolecek.com/voting)**. 
+This project is an extension of my [2025 Slovak Geography Olympiad entry](https://matusbolecek.com/#expand-geo), which was focused on Electoral Geography in Slovakia. This repository hosts the modular data engineering pipeline and necessary files for running my publicly available **[Interactive Election Map](https://matusbolecek.com/voting.html)**. 
 
 While the main goal is mapping historical elections and demographics in Slovakia, the underlying Python pipeline was built to be highly extensible. It can be easily adapted to process and visualize electoral data for any country.
 
