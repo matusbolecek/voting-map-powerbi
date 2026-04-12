@@ -207,7 +207,7 @@ class National(Base, Election):
         df = df[~df["Okres"].astype(str).str.contains("Spolu za SR")]
 
         df = National.add_foreign(df)
-        df = Base.fill_disctrict_codes(df)
+        df = Base.fill_district_codes(df)
 
         return df
 
@@ -269,7 +269,7 @@ class Euro(Base, Election):
         df = df[~df["Okres"].astype(str).str.contains("Spolu za SR")]
         df = df.drop(df.columns[1], axis=1)
 
-        df = Base.fill_disctrict_codes(df)
+        df = Base.fill_district_codes(df)
 
         return df
 
@@ -288,7 +288,7 @@ class Euro(Base, Election):
         df = df[~df["Okres"].astype(str).str.contains("Spolu za SR")]
         df = df.drop(df.columns[1], axis=1)
 
-        df = Base.fill_disctrict_codes(df)
+        df = Base.fill_district_codes(df)
 
         df = df.loc[:, df.columns.notna()]
 
