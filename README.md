@@ -36,6 +36,7 @@ The first page provides a macro-level overview of each election. It displays the
 ![Screenshot of the homepage](.assets/corr.jpg)
 
 This page allows for easy comparison between regional demographic statistics (e.g., education level, age groups, urbanization) and a party's performance in specific districts. It visualizes this on a scatter plot and automatically calculates the Pearson's correlation coefficient alongside a brief, automated interpretation.
+>Note: Correlations are calculated at the district level and reflect aggregate regional patterns. These should not be interpreted as individual-level relationships — a district with a high share of university graduates voting for a given party does not mean that university graduates specifically cast those votes. Furthermore it is worth noting that some studies (inluding my Geo Olympiad work) filter out districts with a predominantely Hungarian population, as the voting preference in these districts is based on the ethnic conflict line and not on common regional patterns. This filtering is not applied in the Power BI report.
 
 ### Page 3: Map
 ![Screenshot of the homepage](.assets/map.jpg)

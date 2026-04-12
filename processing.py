@@ -29,7 +29,7 @@ class Base:
         return df
 
     @staticmethod
-    def fill_disctrict_codes(df):
+    def fill_district_codes(df):
         df["Kód Okresu"] = df["Okres"].map(DISTRICT_TO_LAU1)
         return df
 
@@ -174,7 +174,7 @@ class National(Base, Election):
         df = Base.clean(df)
 
         df = National.add_foreign(df)
-        df = Base.fill_disctrict_codes(df)
+        df = Base.fill_district_codes(df)
 
         df = df.drop(columns=["platných hlasov spolu"])
 
